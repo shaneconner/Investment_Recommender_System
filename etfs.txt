@@ -1,0 +1,1012 @@
+Symbol	Name	Morningstar Category	Morningstar Star Rating	Current Price	Price Change	Net Expense Ratio
+ANGL	 VanEck Vectors Fallen Angel HiYld Bd ETF	 High Yield Bond	 5	 $29.78	 0.00%	 0.35%
+BSCJ	 Guggenheim BulletShrs 2019 Corp Bd ETF	 Short-Term Bond	 5	 $21.28	 +0.05%	 0.24%
+CAPE	 Barclays ETN+ Shiller Capet	 Large Value 	 5	 $109.24	 -0.09%	 0.45%
+CN	 Deutsche X-trackers MSCI All China Eq	 China Region	 5	 $33.13	 -0.08%	 0.62%
+CSM	 ProShares Large Cap Core Plus	 Large Blend	 5	 $61.12	 -0.16%	 0.45%
+CUT	 Guggenheim MSCI Global Timber ETF	 Natural Resources	 5	 $29.14	 -0.31%	 0.55%
+CWB	 SPDRÂ® Blmbg Barclays Convert Secs ETF	 Convertibles	 5	 $50.94	 -0.06%	 0.40%
+CZA	 Guggenheim Mid-Cap Core ETF	 Mid-Cap Blend	 5	 $61.31	 +0.02%	 0.65%
+DBAW	 Deutsche X-trackers MSCI AlWd exUS HgdEq	 Foreign Large Blend	 5	 $26.35	 -0.79%	 0.40%
+DBEF	 Deutsche X-trackers MSCI EAFE Hedged Eq	 Foreign Large Blend	 5	 $30.19	 -0.76%	 0.35%
+DBEU	 Deutsche X-trackers MSCI Europe Hedgd Eq	 Europe Stock	 5	 $27.61	 -0.88%	 0.45%
+DGRO	 iShares Core Dividend Growth ETF	 Large Blend	 5	 $31.71	 -0.06%	 0.08%
+DGRW	 WisdomTree US Quality Dividend Gr ETF	 Large Blend	 5	 $37.37	 -0.08%	 0.28%
+DLS	 WisdomTree International SmallCp Div ETF	 Foreign Small/Mid Value	 5	 $71.36	 -0.11%	 0.58%
+DOD	 ELEMENTS Dogs of Dow DJ HY Sel 10 TR ETN	 Large Value 	 5	 $19.11	 -0.10%	 0.75%
+DON	 WisdomTree US MidCap Dividend ETF	 Mid-Cap Value	 5	 $99.17	 +0.06%	 0.38%
+DSUM	 PowerShares Chinese Yuan Dim Sum Bd ETF	 Emerging-Markets Local-Currency Bond	 5	 $22.80	 0.00%	 0.45%
+DXJH	 WisdomTree Japan Hedged Health Care ETF	 Japan Stock	 5	 $32.94	 -0.99%	 0.48%
+DXJS	 WisdomTree Japan Hedged SmallCap Eq ETF	 Japan Stock	 5	 $40.19	 -0.22%	 0.58%
+ECH	 iShares MSCI Chile Capped ETF	 Miscellaneous Region	 5	 $44.99	 -0.42%	 0.64%
+EFAV	 iShares Edge MSCI Min Vol EAFE ETF	 Foreign Large Blend	 5	 $70.43	 +0.14%	 0.20%
+EMHY	 iShares Emerging Markets High Yld Bd ETF	 Emerging Markets Bond	 5	 $50.43	 +0.13%	 0.50%
+EMLP	 First Trust North Amer Engy InfrasETF	 Equity Energy	 5	 $25.21	 +0.12%	 0.95%
+EPU	 iShares MSCI All Peru Capped ETF	 Miscellaneous Region	 5	 $35.07	 +0.23%	 0.63%
+EQWL	 PowerShares Russell Top 200 Equal Wt ETF	 Large Blend	 5	 $48.85	 -0.02%	 0.25%
+EWH	 iShares MSCI Hong Kong ETF	 China Region	 5	 $23.95	 +0.21%	 0.48%
+EWL	 iShares MSCI Switzerland Capped ETF	 Miscellaneous Region	 5	 $34.82	 -0.24%	 0.48%
+EWW	 iShares MSCI Mexico Capped ETF	 Miscellaneous Region	 5	 $57.32	 +0.12%	 0.48%
+EZM	 WisdomTree US MidCap Earnings ETF	 Mid-Cap Blend	 5	 $36.39	 -0.36%	 0.38%
+FCOM	 FidelityÂ® MSCI Telecommunication Svc ETF	 Communications	 5	 $31.84	 +0.41%	 0.08%
+FDN	 First Trust Dow Jones Internet ETF	 Technology	 5	 $100.56	 -0.13%	 0.54%
+FEMS	 First Trust Emerg Mkts SC AlphaDEXÂ® ETF	 Diversified Emerging Mkts	 5	 $38.61	 -0.36%	 0.80%
+FLTR	 VanEck Vectors Investment Grd Fl Rt ETF	 UltraShort Bond	 5	 $25.24	 +0.04%	 0.14%
+FMB	 First Trust Managed Municipal ETF	 Muni National Interm	 5	 $53.05	 -0.02%	 0.50%
+FTCS	 First Trust Capital Strength ETF	 Large Blend	 5	 $46.65	 +0.09%	 0.64%
+FTHI	 First Trust High Income ETF	 Long-Short Equity	 5	 $21.91	 -0.05%	 0.85%
+FVD	 First Trust Value LineÂ® Dividend ETF	 Large Value 	 5	 $29.48	 +0.17%	 0.70%
+FXZ	 First Trust Materials AlphaDEXÂ® ETF	 Natural Resources	 5	 $39.14	 -0.15%	 0.66%
+GHYG	 iShares Global High Yield Corp Bd ETF	 World Bond	 5	 $51.02	 -0.27%	 0.40%
+GQRE	 FlexShares Glbl Quality Real Estate ETF	 Global Real Estate	 5	 $61.11	 +0.05%	 0.45%
+GULF	 WisdomTree Middle East Dividend ETF	 Miscellaneous Region	 5	 $17.29	 -0.69%	 0.88%
+GXG	 Global X MSCI Colombia ETF	 Miscellaneous Region	 5	 $9.88	 -0.10%	 0.61%
+HEDJ	 WisdomTree Europe Hedged Equity ETF	 Europe Stock	 5	 $62.44	 -1.28%	 0.58%
+HEFA	 iShares Currency Hedged MSCI EAFE ETF	 Foreign Large Blend	 5	 $28.16	 -0.83%	 0.36%
+IBCD	 iShares iBonds Mar 2020Tm CorpexFncl ETF	 Short-Term Bond	 5	 $24.71	 +0.04%	 0.10%
+IBDC	 iShares iBonds Mar 2020 Term Corp ETF	 Short-Term Bond	 5	 $26.31	 0.00%	 0.10%
+IHDG	 WisdomTree Intl Hdgd Qual Div Gr ETF	 Foreign Large Growth	 5	 $29.91	 -0.72%	 0.58%
+IJR	 iShares Core S&P Small-Cap ETF	 Small Blend	 5	 $71.25	 -0.49%	 0.07%
+IJT	 iShares S&P Small-Cap 600 Growth ETF	 Small Growth	 5	 $158.26	 -0.33%	 0.25%
+INCO	 Columbia India Consumer ETF	 India Equity	 5	 $43.26	 -0.30%	 0.89%
+IPKW	 PowerShares Intl BuyBack Achievâ„¢ ETF	 Foreign Large Blend	 5	 $33.14	 -0.12%	 0.55%
+ITA	 iShares US Aerospace & Defense ETF	 Industrials	 5	 $164.02	 +0.31%	 0.44%
+IVW	 iShares S&P 500 Growth ETF	 Large Growth	 5	 $141.17	 0.00%	 0.18%
+IYC	 iShares US Consumer Services ETF	 Consumer Cyclical	 5	 $165.67	 +0.01%	 0.44%
+IYE	 iShares US Energy ETF	 Equity Energy	 5	 $35.61	 -0.95%	 0.44%
+JKD	 iShares Morningstar Large-Cap ETF	 Large Blend	 5	 $148.49	 -0.28%	 0.20%
+KBWP	 PowerShares KBW Prpty & Casualty Ins ETF	 Financial	 5	 $59.41	 +0.08%	 0.35%
+KBWY	 PowerShares KBW Premium Yld Eq REIT ETF	 Real Estate	 5	 $37.55	 -0.11%	 0.35%
+KNOW	 Direxion All Cap Insider Sentiment ETF	 Mid-Cap Blend	 5	 $40.28	 -0.22%	 0.65%
+LDUR	 PIMCO Low Duration Active ETF	 Short-Term Bond	 5	 $101.18	 +0.14%	 0.50%
+LGLV	 SPDRÂ® SSGA US Large Cap Low Volatil ETF	 Large Blend	 5	 $87.61	 -0.07%	 0.12%
+MNA	 IQ Merger Arbitrage ETF	 Market Neutral	 5	 $30.69	 0.00%	 0.77%
+MOAT	 VanEck Vectors Morningstar Wide Moat ETF	 Large Blend	 5	 $39.95	 +0.10%	 0.49%
+MTUM	 iShares Edge MSCI USA Momentum Fctr ETF	 Large Growth	 5	 $91.93	 -0.02%	 0.15%
+NOBL	 ProShares S&P 500 Dividend Aristocrats	 Large Blend	 5	 $58.30	 +0.33%	 0.35%
+ONEQ	 FidelityÂ® Nasdaq Composite Tr Stk ETF	 Large Growth	 5	 $251.24	 -0.08%	 0.21%
+PGHY	 PowerShares Global ShrtTerm HiYld Bd ETF	 High Yield Bond	 5	 $24.28	 -0.25%	 0.35%
+PICK	 iShares MSCI Global Mtls&Mng Prdcrs ETF	 Equity Precious Metals	 5	 $28.96	 -0.79%	 0.39%
+PPA	 PowerShares Aerospace & Defense ETF	 Industrials	 5	 $47.75	 +0.42%	 0.64%
+PSCU	 PowerShares S&P SmallCap Utilities ETF	 Utilities	 5	 $52.84	 +0.96%	 0.29%
+PWV	 PowerShares Dynamic Large Cap Value ETF	 Large Value 	 5	 $36.53	 -0.22%	 0.57%
+PXLV	 PowerShares Russell Top 200 Pure Val ETF	 Large Value 	 5	 $36.52	 -0.19%	 0.39%
+PYZ	 PowerShares DWA Basic Materials Mom ETF	 Natural Resources	 5	 $63.11	 -0.32%	 0.60%
+QDEF	 FlexShares Quality Dividend Defensv ETF	 Large Value 	 5	 $40.87	 -0.11%	 0.37%
+QQQE	 Direxion NASDAQ-100Â® Equal Wtd ETF	 Large Growth	 5	 $41.13	 -0.12%	 0.35%
+QUAL	 iShares Edge MSCI USA Quality Factor ETF	 Large Blend	 5	 $75.88	 -0.03%	 0.15%
+QYLD	 Horizons NASDAQ 100 Covered Call ETF	 Option Writing	 5	 $23.93	 -0.37%	 0.60%
+RDIV	 Oppenheimer Ultra Dividend Revenue ETF	 Large Value 	 5	 $33.63	 -0.16%	 0.39%
+RDVY	 First Trust Rising Dividend Achiev ETF	 Large Value 	 5	 $27.66	 +0.14%	 0.50%
+REZ	 iShares Residential Real Estate Capd ETF	 Real Estate	 5	 $65.32	 +0.37%	 0.48%
+RHS	 Guggenheim S&P 500Â® Eq Wt Cons Stapl ETF	 Consumer Defensive	 5	 $124.69	 +0.35%	 0.40%
+RIGS	 RiverFront Strategic Income ETF	 World Bond	 5	 $25.41	 +0.08%	 0.17%
+RTM	 Guggenheim S&P 500Â® Eq Wt Materials ETF	 Natural Resources	 5	 $100.91	 +0.13%	 0.40%
+RWL	 Oppenheimer Large Cap Revenue ETF	 Large Value 	 5	 $46.76	 -0.11%	 0.39%
+SCHM	 Schwab US Mid-Cap ETFâ„¢	 Mid-Cap Blend	 5	 $49.12	 -0.16%	 0.05%
+SDOG	 ALPS Sector Dividend Dogs ETF	 Large Value 	 5	 $43.29	 -0.07%	 0.40%
+SDY	 SPDRÂ® S&P Dividend ETF	 Large Value 	 5	 $89.98	 +0.06%	 0.35%
+SIZE	 iShares Edge MSCI USA Size Factor ETF	 Large Blend	 5	 $78.71	 +0.08%	 0.15%
+SLY	 SPDRÂ® S&P 600 Small Cap ETF	 Small Blend	 5	 $125.11	 -0.38%	 0.15%
+SLYG	 SPDRÂ® S&P 600 Small Cap Growth ETF	 Small Growth	 5	 $220.02	 -0.14%	 0.15%
+SMH	 VanEck Vectors Semiconductor ETF	 Technology	 5	 $87.38	 -0.66%	 0.36%
+SMLV	 SPDRÂ® SSGA US Small Cap Low Volatil ETF	 Small Blend	 5	 $93.14	 -0.21%	 0.12%
+SPHD	 PowerShares S&P 500Â® High Div Low VolETF	 Large Value 	 5	 $40.51	 +0.15%	 0.30%
+SYE	 SPDRÂ® MFS Systematic Core Equity ETF	 Large Value 	 5	 $69.60	 -0.29%	 0.60%
+SYG	 SPDRÂ® MFS Systematic Growth Equity ETF	 Large Growth	 5	 $73.05	 -0.25%	 0.60%
+SYV	 SPDRÂ® MFS Systematic Value Equity ETF	 Large Value 	 5	 $60.36	 --	 0.60%
+THD	 iShares MSCI Thailand Capped ETF	 Miscellaneous Region	 5	 $78.81	 -0.09%	 0.63%
+TTFS	 AdvisorShares Wilshire Buyback ETF	 Large Blend	 5	 $66.48	 -0.46%	 0.90%
+VCSH	 Vanguard Short-Term Corporate Bond ETF	 Short-Term Bond	 5	 $80.23	 +0.10%	 0.07%
+VGLT	 Vanguard Long-Term Government Bd ETF	 Long Government	 5	 $77.45	 +0.43%	 0.07%
+VIOO	 Vanguard S&P Small-Cap 600 ETF	 Small Blend	 5	 $129.81	 -0.47%	 0.15%
+VIOV	 Vanguard S&P Small-Cap 600 Value ETF	 Small Value	 5	 $122.57	 -0.62%	 0.20%
+VMBS	 Vanguard Mortgage-Backed Secs ETF	 Intermediate Government	 5	 $52.79	 +0.09%	 0.07%
+VYM	 Vanguard High Dividend Yield ETF	 Large Value 	 5	 $79.16	 -0.19%	 0.08%
+WOOD	 iShares Global Timber & Forestry ETF	 Natural Resources	 5	 $63.19	 -0.17%	 0.47%
+XAR	 SPDRÂ® S&P Aerospace & Defense ETF	 Industrials	 5	 $73.62	 +0.33%	 0.35%
+XLE	 Energy Select Sector SPDRÂ® ETF	 Equity Energy	 5	 $65.11	 -0.99%	 0.14%
+XLY	 Consumer Discret Sel Sect SPDRÂ® ETF	 Consumer Cyclical	 5	 $91.13	 +0.07%	 0.14%
+XMLV	 PowerShares S&P MidCap Low Volatil ETF	 Mid-Cap Value	 5	 $44.00	 +0.23%	 0.25%
+XMPT	 VanEck Vectors CEF Municipal Income ETF	 Muni National Long	 5	 $27.30	 +0.26%	 1.56%
+XSLV	 PowerShares S&P SmallCap Low Volatil ETF	 Small Value	 5	 $44.19	 -0.32%	 0.25%
+AADR	 AdvisorShares Dorsey Wright ADR ETF	 Foreign Large Growth	 4	 $49.45	 +0.24%	 1.27%
+ACWV	 iShares Edge MSCI Min Vol Global ETF	 World Large Stock	 4	 $80.26	 +0.24%	 0.20%
+AGZ	 iShares Agency Bond ETF	 Intermediate Government	 4	 $113.92	 +0.09%	 0.20%
+AIA	 iShares Asia 50 ETF	 Pacific/Asia ex-Japan Stk	 4	 $60.01	 +0.05%	 0.50%
+AOA	 iShares Core Aggressive Allocation ETF	 Allocation--70% to 85% Equity	 4	 $52.44	 +0.06%	 0.25%
+ASHR	 Deutsche X-trackers Harvest CSI300 CHN A	 China Region	 4	 $27.93	 -0.50%	 0.65%
+ATMP	 Barclays ETN+ Select MLP	 Energy Limited Partnership	 4	 $22.55	 -0.84%	 0.95%
+AUSE	 WisdomTree Australia Dividend ETF	 Miscellaneous Region	 4	 $57.19	 -1.29%	 0.58%
+BIV	 Vanguard Interm-Term Bond ETF	 Intermediate-Term Bond	 4	 $85.02	 +0.14%	 0.07%
+BNDX	 Vanguard Total International Bond ETF	 World Bond	 4	 $54.49	 +0.22%	 0.12%
+BOND	 PIMCO Active Bond ETF	 Intermediate-Term Bond	 4	 $106.62	 +0.13%	 0.55%
+BSV	 Vanguard Short-Term Bond ETF	 Short-Term Bond	 4	 $79.99	 +0.09%	 0.07%
+BYLD	 iShares Yield Optimized Bond ETF	 Intermediate-Term Bond	 4	 $25.13	 +0.06%	 0.28%
+CJNK	 SPDRÂ® BofA ML Crossover Corp Bd ETF	 Corporate Bond	 4	 $26.56	 -0.54%	 0.30%
+CLY	 iShares 10+ Year Credit Bond ETF	 Corporate Bond	 4	 $62.22	 +0.39%	 0.20%
+CMBS	 iShares CMBS ETF	 Intermediate-Term Bond	 4	 $51.74	 +0.23%	 0.25%
+CMDT	 iShares Commodity Optimized Trust	 Commodities Broad Basket	 4	 $35.22	 --	 0.75%
+CMF	 iShares California Muni Bond ETF	 Muni California Intermediate	 4	 $118.51	 +0.10%	 0.25%
+CQQQ	 Guggenheim China Technology ETF	 China Region	 4	 $50.50	 -1.30%	 0.70%
+CRDT	 WisdomTree Strategic Corporate Bond ETF	 World Bond	 4	 $77.20	 +0.68%	 0.45%
+CWI	 SPDRÂ® MSCI ACWI ex-US ETF	 Foreign Large Blend	 4	 $36.60	 -0.41%	 0.30%
+CXSE	 WisdomTree China ex-State-Owd Entpr ETF	 China Region	 4	 $70.74	 -0.69%	 0.32%
+DBAP	 Deutsche X-trackers MSCI AsPc exJp HgdEq	 Pacific/Asia ex-Japan Stk	 4	 $27.07	 --	 0.60%
+DBBR	 Deutsche X-trackers MSCI Brazil Hedgd Eq	 Latin America Stock	 4	 $10.58	 0.00%	 0.60%
+DBJP	 Deutsche X-trackers MSCI Japan Hedged Eq	 Japan Stock	 4	 $39.01	 -0.54%	 0.45%
+DEF	 Guggenheim Defensive Equity ETF	 Large Value 	 4	 $43.14	 +0.07%	 0.60%
+DES	 WisdomTree US SmallCap Dividend ETF	 Small Value	 4	 $81.65	 -0.31%	 0.38%
+DFE	 WisdomTree Europe SmallCap Dividend ETF	 Europe Stock	 4	 $66.48	 -0.36%	 0.58%
+DFJ	 WisdomTree Japan SmallCap Dividend ETF	 Japan Stock	 4	 $71.73	 +0.55%	 0.58%
+DGRS	 WisdomTree US SmallCap Qual Div Gr ETF	 Small Blend	 4	 $33.68	 -0.30%	 0.38%
+DIA	 SPDRÂ® Dow Jones Industrial Average ETF	 Large Value 	 4	 $215.53	 -0.31%	 0.17%
+DIM	 WisdomTree International MidCap Div ETF	 Foreign Small/Mid Value	 4	 $65.07	 -0.52%	 0.58%
+DLN	 WisdomTree US LargeCap Dividend ETF	 Large Value 	 4	 $85.02	 -0.15%	 0.28%
+DSI	 iShares MSCI KLD 400 Social ETF	 Large Blend	 4	 $91.53	 0.00%	 0.50%
+DTD	 WisdomTree US Total Dividend ETF	 Large Value 	 4	 $85.92	 -0.21%	 0.28%
+DTN	 WisdomTree US Dividend ex-Financials ETF	 Large Value 	 4	 $83.33	 -0.01%	 0.38%
+DVY	 iShares Select Dividend ETF	 Mid-Cap Value	 4	 $93.04	 +0.08%	 0.39%
+DWM	 WisdomTree International Equity ETF	 Foreign Large Value	 4	 $53.04	 -0.30%	 0.48%
+EBND	 SPDRÂ® Blmbg Barclays Em Mkts Lcl Bd ETF	 Emerging-Markets Local-Currency Bond	 4	 $29.59	 -0.07%	 0.40%
+EEMS	 iShares MSCI Emerging Markets Sm-Cp ETF	 Diversified Emerging Mkts	 4	 $48.25	 -0.29%	 0.71%
+EES	 WisdomTree US SmallCap Earnings ETF	 Small Blend	 4	 $33.09	 -0.54%	 0.38%
+ENFR	 Alerian Energy Infrastructure ETF	 Energy Limited Partnership	 4	 $23.62	 -0.38%	 0.65%
+EPS	 WisdomTree US Earnings 500 ETF	 Large Blend	 4	 $85.09	 -0.08%	 0.28%
+EQLT	 Workplace Equality ETF	 Large Blend	 4	 $34.09	 -0.21%	 0.75%
+EUMV	 iShares Edge MSCI Min Vol Europe ETF	 Europe Stock	 4	 $25.01	 -0.18%	 0.25%
+EWC	 iShares MSCI Canada ETF	 Miscellaneous Region	 4	 $27.80	 -0.22%	 0.48%
+EWD	 iShares MSCI Sweden Capped ETF	 Miscellaneous Region	 4	 $34.26	 -0.84%	 0.48%
+EWM	 iShares MSCI Malaysia ETF	 Miscellaneous Region	 4	 $31.65	 -0.13%	 0.48%
+EWMC	 Guggenheim S&P MidCap 400Â® Equal Wt ETF	 Mid-Cap Blend	 4	 $60.47	 -0.25%	 0.41%
+EWT	 iShares MSCI Taiwan Capped ETF	 China Region	 4	 $36.39	 -0.63%	 0.64%
+EWU	 iShares MSCI United Kingdom ETF	 Miscellaneous Region	 4	 $33.93	 -0.32%	 0.48%
+EWX	 SPDRÂ® S&P Emerging Markets Small Cap ETF	 Diversified Emerging Mkts	 4	 $48.11	 -0.23%	 0.65%
+EXT	 WisdomTree US Total Earnings ETF	 Large Blend	 4	 $87.30	 -0.33%	 0.28%
+FAD	 First Trust Multi Cap Gr AlphaDEXÂ® ETF	 Mid-Cap Growth	 4	 $59.83	 +0.02%	 0.70%
+FBT	 First Trust NYSE Arca Biotech ETF	 Health	 4	 $118.93	 +0.34%	 0.56%
+FDIS	 FidelityÂ® MSCI Consumer Discret ETF	 Consumer Cyclical	 4	 $35.99	 +0.19%	 0.08%
+FDM	 First Trust Dow Jones Sel MicroCap ETF	 Small Value	 4	 $44.09	 -0.38%	 0.60%
+FDT	 First Trust Dev Mkts Ex-US AlphaDEXÂ® ETF	 Foreign Large Blend	 4	 $57.21	 -0.33%	 0.80%
+FENY	 FidelityÂ® MSCI Energy ETF	 Equity Energy	 4	 $18.02	 -1.04%	 0.08%
+FEP	 First Trust Europe AlphaDEXÂ® ETF	 Europe Stock	 4	 $35.87	 -0.80%	 0.80%
+FHLC	 FidelityÂ® MSCI Health Care ETF	 Health	 4	 $39.08	 +0.03%	 0.08%
+FIDU	 FidelityÂ® MSCI Industrials ETF	 Industrials	 4	 $35.13	 -0.28%	 0.08%
+FILL	 iShares MSCI Global Energy Producers ETF	 Equity Energy	 4	 $18.45	 -0.88%	 0.39%
+FIW	 First Trust Water ETF	 Miscellaneous Sector	 4	 $44.01	 -0.07%	 0.57%
+FLAG	 WeatherStorm Forensic Accntg Lg-Shrt ETF	 Large Value 	 4	 $38.86	 -0.33%	 1.62%
+FLN	 First Trust Latin America AlphaDEXÂ® ETF	 Latin America Stock	 4	 $20.62	 -0.48%	 0.80%
+FLOT	 iShares Floating Rate Bond ETF	 UltraShort Bond	 4	 $50.91	 0.00%	 0.20%
+FLRN	 SPDRÂ® Blmbg Barclays Inv Grd Flt Rt ETF	 UltraShort Bond	 4	 $30.73	 -0.02%	 0.15%
+FMAT	 FidelityÂ® MSCI Materials ETF	 Natural Resources	 4	 $32.07	 -0.12%	 0.08%
+FNCL	 FidelityÂ® MSCI Financials ETF	 Financial	 4	 $36.60	 +0.03%	 0.08%
+FNDB	 Schwab Fundamental US Broad Market ETF	 Large Value 	 4	 $34.11	 -0.46%	 0.25%
+FNDC	 Schwab Fundamental Intl Sm Co ETF	 Foreign Small/Mid Blend	 4	 $33.57	 -0.12%	 0.39%
+FNDX	 Schwab Fundamental US Large Company ETF	 Large Value 	 4	 $34.27	 -0.17%	 0.25%
+FPA	 First Trust AsiaPac ex-Jpn AlphaDEXÂ® ETF	 Pacific/Asia ex-Japan Stk	 4	 $34.06	 -0.06%	 0.80%
+FPE	 First Trust Preferred Sec & Inc ETF	 Preferred Stock	 4	 $20.08	 -0.35%	 0.85%
+FPX	 First Trust US Equity Opportunities ETF	 Large Growth	 4	 $61.02	 +0.25%	 0.60%
+FTA	 First Trust Large Cap Val AlphaDEXÂ® ETF	 Large Value 	 4	 $51.05	 +0.20%	 0.62%
+FTLB	 First Trust Low Beta Income ETF	 Long-Short Equity	 4	 $21.76	 +0.16%	 0.85%
+FUTY	 FidelityÂ® MSCI Utilities ETF	 Utilities	 4	 $34.64	 +0.85%	 0.08%
+FV	 First Trust Dorsey Wright Focus 5 ETF	 Mid-Cap Growth	 4	 $25.53	 -0.10%	 0.89%
+FWDB	 AdvisorShares Madrona Global Bond ETF	 World Bond	 4	 $26.05	 --	 1.33%
+FXG	 First Trust Cnsmr Staples AlphaDEXÂ® ETF	 Consumer Defensive	 4	 $46.52	 +0.15%	 0.61%
+FXH	 First Trust Health Care AlphaDEXÂ® ETF	 Health	 4	 $68.51	 -0.09%	 0.61%
+FXO	 First Trust Financials AlphaDEXÂ® ETF	 Financial	 4	 $29.20	 +0.21%	 0.64%
+FXU	 First Trust Utilities AlphaDEXÂ® ETF	 Utilities	 4	 $27.51	 +0.62%	 0.62%
+GAF	 SPDRÂ® S&P Emerging Middle East&Afr ETF	 Miscellaneous Region	 4	 $63.50	 +0.89%	 0.49%
+GCC	 WisdomTree Continuous Commodity ETF	 Commodities Broad Basket	 4	 $18.91	 -0.45%	 0.75%
+GCE	 Claymore CEF GS Connect ETN	 Allocation--50% to 70% Equity	 4	 $16.72	 --	 0.95%
+GML	 SPDRÂ® S&P Emerging Latin America ETF	 Latin America Stock	 4	 $52.47	 -0.37%	 0.49%
+GMM	 SPDRÂ® S&P Emerging Markets ETF	 Diversified Emerging Mkts	 4	 $69.80	 -0.34%	 0.59%
+GSY	 Guggenheim Ultra Short Duration ETF	 UltraShort Bond	 4	 $50.30	 +0.01%	 0.27%
+GWL	 SPDRÂ® S&P World ex-US ETF	 Foreign Large Blend	 4	 $29.81	 -0.27%	 0.34%
+GXF	 Global X FTSE Nordic Region ETF	 Miscellaneous Region	 4	 $23.21	 -0.90%	 0.51%
+HSPX	 Horizons S&P 500Â® Covered Call ETF	 Option Writing	 4	 --	 --	 0.65%
+HYEM	 VanEck Vectors EM High Yield Bond ETF	 Emerging Markets Bond	 4	 $24.58	 +0.23%	 0.40%
+HYZD	 WisdomTree Interest Rt Hdg Hi Yld Bd ETF	 Nontraditional Bond	 4	 $24.22	 +0.12%	 0.43%
+IAK	 iShares US Insurance ETF	 Financial	 4	 $63.77	 +0.23%	 0.44%
+IBMH	 iShares iBonds Sep 2019 Term Muni Bd ETF	 Muni National Short	 4	 $25.55	 -0.12%	 0.18%
+IDX	 VanEck Vectors Indonesia ETF	 Miscellaneous Region	 4	 $23.58	 -1.46%	 0.58%
+IEI	 iShares 3-7 Year Treasury Bond ETF	 Intermediate Government	 4	 $124.03	 +0.12%	 0.15%
+IEUS	 iShares MSCI Europe Small-Cap ETF	 Europe Stock	 4	 $53.44	 -0.49%	 0.40%
+IFEU	 iShares Europe Developed Real Estate ETF	 Global Real Estate	 4	 $38.27	 +0.09%	 0.48%
+IGM	 iShares North American Tech ETF	 Technology	 4	 $152.59	 -0.23%	 0.48%
+IGV	 iShares North American Tech-Software ETF	 Technology	 4	 $142.85	 -0.40%	 0.48%
+IHI	 iShares US Medical Devices ETF	 Health	 4	 $168.42	 -0.62%	 0.44%
+IHY	 VanEck Vectors Intl Hi Yld Bd ETF	 World Bond	 4	 $25.38	 +0.16%	 0.40%
+IJH	 iShares Core S&P Mid-Cap ETF	 Mid-Cap Blend	 4	 $176.82	 -0.28%	 0.07%
+IJJ	 iShares S&P Mid-Cap 400 Value ETF	 Mid-Cap Value	 4	 $150.96	 -0.25%	 0.25%
+IJK	 iShares S&P Mid-Cap 400 Growth ETF	 Mid-Cap Growth	 4	 $199.73	 -0.29%	 0.25%
+IJS	 iShares S&P Small-Cap 600 Value ETF	 Small Value	 4	 $142.18	 -0.52%	 0.25%
+ILF	 iShares Latin America 40 ETF	 Latin America Stock	 4	 $32.53	 -0.52%	 0.49%
+IPE	 SPDRÂ® Blmbg Barclays TIPS ETF	 Inflation-Protected Bond	 4	 $56.32	 +0.17%	 0.15%
+ISTB	 iShares Core 1-5 Year USD Bond ETF	 Short-Term Bond	 4	 $50.32	 +0.12%	 0.08%
+ITOT	 iShares Core S&P Total US Stock Mkt ETF	 Large Blend	 4	 $56.55	 -0.11%	 0.03%
+IUSB	 iShares Core Total USD Bond Market ETF	 Intermediate-Term Bond	 4	 $51.18	 +0.16%	 0.08%
+IUSG	 iShares Core S&P US Growth ETF	 Large Growth	 4	 $49.68	 -0.02%	 0.05%
+IUSV	 iShares Core S&P US Value ETF	 Large Value 	 4	 $51.39	 -0.17%	 0.05%
+IVE	 iShares S&P 500 Value ETF	 Large Value 	 4	 $105.84	 -0.16%	 0.18%
+IVOG	 Vanguard S&P Mid-Cap 400 Growth ETF	 Mid-Cap Growth	 4	 $123.62	 -0.43%	 0.20%
+IVOO	 Vanguard S&P Mid-Cap 400 ETF	 Mid-Cap Blend	 4	 $119.46	 -0.27%	 0.15%
+IVOV	 Vanguard S&P Mid-Cap 400 Value ETF	 Mid-Cap Value	 4	 $115.54	 -0.13%	 0.20%
+IVV	 iShares Core S&P 500	 Large Blend	 4	 $248.51	 -0.09%	 0.04%
+IWB	 iShares Russell 1000 ETF	 Large Blend	 4	 $137.34	 -0.09%	 0.15%
+IWF	 iShares Russell 1000 Growth ETF	 Large Growth	 4	 $122.40	 -0.03%	 0.20%
+IWL	 iShares Russell Top 200 ETF	 Large Blend	 4	 $56.49	 -0.16%	 0.15%
+IWR	 iShares Russell Mid-Cap ETF	 Mid-Cap Blend	 4	 $194.72	 -0.02%	 0.20%
+IWS	 iShares Russell Mid-Cap Value ETF	 Mid-Cap Value	 4	 $84.87	 +0.01%	 0.25%
+IWV	 iShares Russell 3000 ETF	 Large Blend	 4	 $146.28	 -0.12%	 0.20%
+IWY	 iShares Russell Top 200 Growth ETF	 Large Growth	 4	 $66.47	 +0.02%	 0.20%
+IXC	 iShares Global Energy ETF	 Equity Energy	 4	 $31.40	 -0.92%	 0.47%
+IYM	 iShares US Basic Materials ETF	 Natural Resources	 4	 $92.27	 -0.17%	 0.44%
+IYY	 iShares Dow Jones US ETF	 Large Blend	 4	 $123.74	 -0.12%	 0.20%
+JKG	 iShares Morningstar Mid-Cap ETF	 Mid-Cap Blend	 4	 $171.80	 -0.13%	 0.25%
+JKI	 iShares Morningstar Mid-Cap Value ETF	 Mid-Cap Value	 4	 $149.80	 -0.09%	 0.30%
+JKL	 iShares Morningstar Small-Cap Value ETF	 Small Value	 4	 $142.71	 -0.59%	 0.30%
+JPGE	 JPMorgan Diversified Return Glbl Eq ETF	 World Large Stock	 4	 $58.82	 -0.05%	 0.38%
+KFYP	 KraneShares Zacks New China ETF	 China Region	 4	 $40.40	 -0.93%	 0.73%
+KIE	 SPDRÂ® S&P Insurance ETF	 Financial	 4	 $90.50	 +0.34%	 0.35%
+LEMB	 iShares JP Morgan EM Local Ccy Bd ETF	 Emerging-Markets Local-Currency Bond	 4	 $47.82	 -0.02%	 0.50%
+LWC	 SPDRÂ® Blmbg Barclays LT Corp Bd ETF	 Corporate Bond	 4	 $42.33	 +0.42%	 0.12%
+MBG	 SPDRÂ® Blmbg Barclays Mortg Backed Bd ETF	 Intermediate Government	 4	 $26.33	 +0.11%	 0.20%
+MDY	 SPDRÂ® S&P MidCap 400 ETF	 Mid-Cap Blend	 4	 $322.95	 -0.26%	 0.25%
+MDYG	 SPDRÂ® S&P 400 Mid Cap Growth ETF	 Mid-Cap Growth	 4	 $145.51	 -0.50%	 0.15%
+MDYV	 SPDRÂ® S&P 400 Mid Cap Value ETF	 Mid-Cap Value	 4	 $97.71	 -0.31%	 0.15%
+MGC	 Vanguard Mega Cap ETF	 Large Blend	 4	 $84.64	 -0.06%	 0.07%
+MGK	 Vanguard Mega Cap Growth ETF	 Large Growth	 4	 $103.24	 +0.03%	 0.07%
+MGV	 Vanguard Mega Cap Value ETF	 Large Value 	 4	 $70.10	 -0.23%	 0.07%
+MINC	 AdvisorShares Newfleet Mult-Sect Inc ETF	 Short-Term Bond	 4	 $48.77	 +0.02%	 0.76%
+MINT	 PIMCO Enhanced Short Maturity Active ETF	 UltraShort Bond	 4	 $101.72	 +0.03%	 0.35%
+MLN	 VanEck Vectors AMT-Free Long Muni ETF	 Muni National Long	 4	 $20.02	 +0.02%	 0.24%
+MOO	 VanEck Vectors Agribusiness ETF	 Natural Resources	 4	 $56.54	 -0.04%	 0.53%
+MORT	 VanEck Vectors Mortgage REIT Income ETF	 Real Estate	 4	 $24.41	 +0.70%	 0.41%
+MTK	 SPDRÂ® Morgan Stanley Technology ETF	 Technology	 4	 $76.55	 -0.31%	 0.35%
+NEAR	 iShares Short Maturity Bond ETF	 UltraShort Bond	 4	 $50.27	 +0.04%	 0.25%
+NFRA	 FlexShares STOXX Global Broad Infras ETF	 Infrastructure	 4	 $47.73	 +0.04%	 0.47%
+OEF	 iShares S&P 100 ETF	 Large Blend	 4	 $109.02	 -0.19%	 0.20%
+ONEK	 SPDRÂ® Russell 1000 ETF	 Large Blend	 4	 $116.03	 +0.10%	 0.10%
+PBP	 PowerShares S&P 500 BuyWrite ETF	 Option Writing	 4	 $22.42	 +0.22%	 0.75%
+PCEF	 PowerShares CEF Income Composite ETF	 Allocation--30% to 50% Equity	 4	 $23.90	 +0.08%	 2.02%
+PCY	 PowerShares Emerging Markets Sov Dbt ETF	 Emerging Markets Bond	 4	 $29.52	 +0.24%	 0.50%
+PEY	 PowerShares High Yld Eq Div Achievâ„¢ ETF	 Mid-Cap Value	 4	 $16.96	 -0.12%	 0.54%
+PJP	 PowerShares Dynamic Pharmaceuticals ETF	 Health	 4	 $64.71	 +0.23%	 0.57%
+PKW	 PowerShares Buyback Achievers ETF	 Large Blend	 4	 $54.44	 +0.02%	 0.63%
+PNQI	 PowerShares NASDAQ Internet ETF	 Technology	 4	 $110.76	 0.00%	 0.60%
+PRF	 PowerShares FTSE RAFI US 1000 ETF	 Large Value 	 4	 $104.67	 -0.17%	 0.39%
+PRFZ	 PowerShares FTSE RAFI US 1500 Sm-Mid ETF	 Small Blend	 4	 $120.11	 -0.36%	 0.39%
+PSCC	 PowerShares S&P SmallCap Cnsmr Stapl ETF	 Consumer Defensive	 4	 $68.24	 +0.22%	 0.29%
+PSCH	 PowerShares S&P SmallCap Health Care ETF	 Health	 4	 $88.19	 -0.26%	 0.29%
+PSCM	 PowerShares S&P SmallCap Materials ETF	 Natural Resources	 4	 $47.32	 -0.61%	 0.29%
+PSCT	 PowerShares S&P SmallCap Info Tech ETF	 Technology	 4	 $77.92	 -0.61%	 0.29%
+PSI	 PowerShares Dynamic Semiconductors ETF	 Technology	 4	 $45.85	 -0.95%	 0.63%
+PSJ	 PowerShares Dynamic Software ETF	 Technology	 4	 $57.85	 -0.31%	 0.63%
+PSL	 PowerShares DWA Consumer Staples Mom ETF	 Consumer Defensive	 4	 $60.62	 -0.32%	 0.60%
+PSR	 PowerShares Active US Real Estate ETF	 Real Estate	 4	 $79.14	 -0.42%	 0.80%
+PUI	 PowerShares DWA Utilities Momentum ETF	 Utilities	 4	 $28.24	 +0.82%	 0.60%
+PUW	 PowerShares WilderHill Prog Engy ETF	 Miscellaneous Sector	 4	 $25.70	 -1.81%	 0.70%
+PWB	 PowerShares Dynamic Large Cap Growth ETF	 Large Growth	 4	 $37.34	 -0.07%	 0.57%
+PXI	 PowerShares DWA Energy Momentum ETF	 Equity Energy	 4	 $33.49	 -1.50%	 0.60%
+PZA	 PowerShares National AMT-Free MuniBd ETF	 Muni National Long	 4	 $25.65	 +0.16%	 0.28%
+PZT	 PowerShares New York AMT-Free MuniBd ETF	 Muni New York Long	 4	 $24.45	 +0.16%	 0.28%
+QDF	 FlexShares Quality Dividend ETF	 Large Value 	 4	 $41.47	 -0.31%	 0.37%
+QEFA	 SPDRÂ® MSCI EAFE StrategicFactors ETF	 Foreign Large Blend	 4	 $62.17	 -0.14%	 0.30%
+QINC	 First Trust RBA Quality Income ETF	 Mid-Cap Value	 4	 $24.38	 -0.08%	 0.70%
+QQEW	 First Trust NASDAQ-100 Equal Wtd ETF	 Large Growth	 4	 $55.25	 -0.02%	 0.60%
+QQQ	 PowerShares QQQ ETF	 Technology	 4	 $144.11	 -0.04%	 0.20%
+QTEC	 First Trust NASDAQ-100-Tech Sector ETF	 Technology	 4	 $65.78	 -0.65%	 0.60%
+QWLD	 SPDRÂ® MSCI World StrategicFactors ETF	 World Large Stock	 4	 $69.40	 --	 0.30%
+RFG	 Guggenheim S&P MidCap 400Â® Pure Gr ETF	 Mid-Cap Growth	 4	 $142.04	 -0.48%	 0.35%
+RGI	 Guggenheim S&P 500Â® Eq Wt Indls ETF	 Industrials	 4	 $108.85	 +0.04%	 0.40%
+ROOF	 IQ US Real Estate Small Cap ETF	 Real Estate	 4	 $27.32	 -0.47%	 0.70%
+RPG	 Guggenheim S&P 500Â® Pure Growth ETF	 Large Growth	 4	 $97.78	 +0.06%	 0.35%
+RSP	 Guggenheim S&P 500Â® Equal Weight ETF	 Large Blend	 4	 $94.31	 +0.02%	 0.20%
+RTH	 VanEck Vectors Retail ETF	 Consumer Cyclical	 4	 $80.34	 +0.04%	 0.35%
+RVNU	 Deutsche X-trackers Muni Infras Revn Bd	 Muni National Long	 4	 $26.82	 +0.32%	 0.30%
+RWW	 Oppenheimer Financials Sect Revenue ETF	 Financial	 4	 $61.65	 -0.11%	 0.49%
+RYE	 Guggenheim S&P 500Â® Equal Wt Energy ETF	 Equity Energy	 4	 $53.03	 -1.10%	 0.40%
+RYF	 Guggenheim S&P 500Â® Eq Weight Fincl ETF	 Financial	 4	 $40.06	 +0.30%	 0.40%
+RYH	 Guggenheim S&P 500Â® Eq Weight HC ETF	 Health	 4	 $177.60	 -0.08%	 0.40%
+RYT	 Guggenheim S&P 500Â® Eq Wt Technology ETF	 Technology	 4	 $131.27	 -0.12%	 0.40%
+RYU	 Guggenheim S&P 500Â® Eq Wt Utilities ETF	 Utilities	 4	 $87.14	 +0.37%	 0.40%
+RZG	 Guggenheim S&P SmallCap 600Â® Pure Gr ETF	 Small Growth	 4	 $104.55	 -0.47%	 0.35%
+SCHA	 Schwab US Small-Cap ETFâ„¢	 Small Blend	 4	 $65.02	 -0.35%	 0.05%
+SCHB	 Schwab US Broad Market ETFâ„¢	 Large Blend	 4	 $59.72	 -0.10%	 0.03%
+SCHD	 Schwab US Dividend Equity ETFâ„¢	 Large Value 	 4	 $45.56	 -0.13%	 0.07%
+SCHG	 Schwab US Large-Cap Growth ETFâ„¢	 Large Growth	 4	 $65.02	 +0.08%	 0.04%
+SCHP	 Schwab US TIPS ETFâ„¢	 Inflation-Protected Bond	 4	 $55.21	 +0.16%	 0.05%
+SCHV	 Schwab US Large-Cap Value ETFâ„¢	 Large Value 	 4	 $50.84	 -0.24%	 0.04%
+SCHX	 Schwab US Large-Cap ETFâ„¢	 Large Blend	 4	 $58.98	 -0.05%	 0.03%
+SCPB	 SPDRÂ® Blmbg Barclays ST Corp Bd ETF	 Short-Term Bond	 4	 $30.70	 +0.07%	 0.12%
+SCZ	 iShares MSCI EAFE Small-Cap ETF	 Foreign Small/Mid Blend	 4	 $59.29	 -0.08%	 0.40%
+SLQD	 iShares 0-5 Year Invmt Grade Corp Bd ETF	 Short-Term Bond	 4	 $50.68	 +0.08%	 0.08%
+SLYV	 SPDRÂ® S&P 600 Small Cap Value ETF	 Small Value	 4	 $121.19	 -0.56%	 0.15%
+SMD	 SPDRÂ® S&P 1000 ETF	 Mid-Cap Blend	 4	 $93.47	 -0.56%	 0.10%
+SPHQ	 PowerShares S&P 500Â® Quality ETF	 Large Blend	 4	 $28.30	 -0.21%	 0.29%
+SPLV	 PowerShares S&P 500 Low Volatility ETF	 Large Value 	 4	 $45.22	 +0.18%	 0.25%
+SPXH	 Janus Velocity Volatility Hdgd Lg Cp ETF	 Long-Short Equity	 4	 $34.14	 -0.14%	 0.70%
+SPY	 SPDRÂ® S&P 500 ETF	 Large Blend	 4	 $246.88	 -0.09%	 0.09%
+SPYG	 SPDRÂ® S&P 500 Growth ETF	 Large Growth	 4	 $121.94	 +0.02%	 0.15%
+SPYV	 SPDRÂ® S&P 500 Value ETF	 Large Value 	 4	 $114.43	 -0.30%	 0.15%
+SST	 SPDRÂ® Blmbg Barclays ST Treasury ETF	 Short Government	 4	 $30.23	 +0.23%	 0.10%
+STIP	 iShares 0-5 Year TIPS Bond ETF	 Inflation-Protected Bond	 4	 $100.33	 +0.02%	 0.10%
+STPZ	 PIMCO 1-5 Year US TIPS ETF	 Inflation-Protected Bond	 4	 $52.11	 0.00%	 0.20%
+SYLD	 Cambria Shareholder Yield ETF	 Mid-Cap Value	 4	 $34.64	 -0.42%	 0.59%
+TAO	 Guggenheim China Real Estate ETF	 China Region	 4	 $26.60	 -0.56%	 0.70%
+TDTF	 FlexShares iBoxx 5Yr Target Dur TIPS ETF	 Inflation-Protected Bond	 4	 $25.00	 +0.16%	 0.20%
+TDTT	 FlexShares iBoxx 3Yr Target Dur TIPS ETF	 Inflation-Protected Bond	 4	 $24.54	 +0.12%	 0.20%
+THRK	 SPDRÂ® Russell 3000 ETF	 Large Blend	 4	 $184.27	 -0.11%	 0.10%
+TIP	 iShares TIPS Bond ETF	 Inflation-Protected Bond	 4	 $113.58	 +0.15%	 0.20%
+TLO	 SPDRÂ® Blmbg Barclays Long Term Trs ETF	 Long Government	 4	 $72.50	 +0.37%	 0.10%
+TOK	 iShares MSCI Kokusai ETF	 World Large Stock	 4	 $61.00	 -0.68%	 0.25%
+TUR	 iShares MSCI Turkey ETF	 Miscellaneous Region	 4	 $44.05	 -0.09%	 0.64%
+TWOK	 SPDRÂ® Russell 2000 ETF	 Small Blend	 4	 $84.52	 -0.18%	 0.10%
+URTH	 iShares MSCI World ETF	 World Large Stock	 4	 $81.93	 -0.41%	 0.24%
+USCI	 United States Commodity Index	 Commodities Broad Basket	 4	 $38.62	 +0.10%	 1.03%
+USMV	 iShares Edge MSCI Min Vol USA ETF	 Large Blend	 4	 $49.69	 +0.22%	 0.15%
+USRT	 iShares Core US REIT ETF	 Real Estate	 4	 $49.62	 +0.02%	 0.08%
+VAW	 Vanguard Materials ETF	 Natural Resources	 4	 $124.90	 -0.18%	 0.10%
+VB	 Vanguard Small-Cap ETF	 Small Blend	 4	 $137.84	 -0.38%	 0.06%
+VBR	 Vanguard Small-Cap Value ETF	 Small Value	 4	 $124.80	 -0.44%	 0.07%
+VCLT	 Vanguard Long-Term Corporate Bd ETF	 Corporate Bond	 4	 $94.48	 +0.45%	 0.07%
+VCR	 Vanguard Consumer Discretionary ETF	 Consumer Cyclical	 4	 $143.77	 0.00%	 0.10%
+VDC	 Vanguard Consumer Staples ETF	 Consumer Defensive	 4	 $141.47	 +0.22%	 0.10%
+VDE	 Vanguard Energy ETF	 Equity Energy	 4	 $88.89	 -0.91%	 0.10%
+VEA	 Vanguard FTSE Developed Markets ETF	 Foreign Large Blend	 4	 $42.32	 -0.26%	 0.07%
+VEGI	 iShares MSCI Global Agricltr Prdcrs ETF	 Natural Resources	 4	 $27.24	 -0.15%	 0.39%
+VFH	 Vanguard Financials ETF	 Financial	 4	 $62.92	 -0.10%	 0.10%
+VGT	 Vanguard Information Technology ETF	 Technology	 4	 $148.28	 -0.22%	 0.10%
+VHT	 Vanguard Health Care ETF	 Health	 4	 $150.56	 -0.05%	 0.10%
+VIG	 Vanguard Dividend Appreciation ETF	 Large Blend	 4	 $93.70	 +0.02%	 0.08%
+VIOG	 Vanguard S&P Small-Cap 600 Growth ETF	 Small Growth	 4	 $135.60	 -0.55%	 0.20%
+VIXH	 First Trust CBOEÂ® S&P 500 VIXÂ®Tail H ETF	 Long-Short Equity	 4	 $26.40	 --	 0.60%
+VLU	 SPDRÂ® S&P 1500 Value Tilt ETF	 Large Value 	 4	 $95.07	 --	 0.12%
+VNQ	 Vanguard REIT ETF	 Real Estate	 4	 $83.75	 -0.07%	 0.12%
+VO	 Vanguard Mid-Cap ETF	 Mid-Cap Blend	 4	 $145.53	 +0.01%	 0.06%
+VOE	 Vanguard Mid-Cap Value ETF	 Mid-Cap Value	 4	 $104.85	 -0.01%	 0.07%
+VONE	 Vanguard Russell 1000 ETF	 Large Blend	 4	 $113.36	 -0.17%	 0.12%
+VONG	 Vanguard Russell 1000 Growth ETF	 Large Growth	 4	 $125.51	 -0.02%	 0.12%
+VONV	 Vanguard Russell 1000 Value ETF	 Large Value 	 4	 $102.14	 -0.18%	 0.12%
+VOO	 Vanguard S&P 500 ETF	 Large Blend	 4	 $226.77	 -0.07%	 0.04%
+VOOG	 Vanguard S&P 500 Growth ETF	 Large Growth	 4	 $126.64	 -0.02%	 0.15%
+VOOV	 Vanguard S&P 500 Value ETF	 Large Value 	 4	 $102.01	 -0.22%	 0.15%
+VOT	 Vanguard Mid-Cap Growth ETF	 Mid-Cap Growth	 4	 $120.29	 +0.11%	 0.07%
+VOX	 Vanguard Telecommunication Services ETF	 Communications	 4	 $91.57	 +0.44%	 0.10%
+VPU	 Vanguard Utilities ETF	 Utilities	 4	 $117.19	 +0.76%	 0.10%
+VTHR	 Vanguard Russell 3000 ETF	 Large Blend	 4	 $113.36	 -0.28%	 0.15%
+VTI	 Vanguard Total Stock Market ETF	 Large Blend	 4	 $126.96	 -0.13%	 0.04%
+VTV	 Vanguard Value ETF	 Large Value 	 4	 $97.69	 -0.18%	 0.06%
+VUG	 Vanguard Growth ETF	 Large Growth	 4	 $130.96	 +0.06%	 0.06%
+VV	 Vanguard Large-Cap ETF	 Large Blend	 4	 $113.36	 -0.11%	 0.06%
+VWOB	 Vanguard Emerging Mkts Govt Bd ETF	 Emerging Markets Bond	 4	 $80.46	 +0.10%	 0.32%
+WMW	 ELEMENTS Morningstar WideMoat Foc TR ETN	 Large Blend	 4	 $27.78	 -0.03%	 0.75%
+XHE	 SPDRÂ® S&P Health Care Equipment ETF	 Health	 4	 $61.84	 -1.04%	 0.35%
+XLB	 Materials Select Sector SPDRÂ® ETF	 Natural Resources	 4	 $55.23	 -0.04%	 0.14%
+XLG	 Guggenheim S&P 500Â® Top 50 ETF	 Large Blend	 4	 $174.54	 -0.29%	 0.20%
+XLI	 Industrial Select Sector SPDRÂ® ETF	 Industrials	 4	 $68.78	 -0.19%	 0.14%
+XLK	 Technology Select Sector SPDRÂ® ETF	 Technology	 4	 $57.47	 -0.12%	 0.14%
+XLP	 Consumer Staples Select Sector SPDRÂ® ETF	 Consumer Defensive	 4	 $55.08	 +0.16%	 0.14%
+XLU	 Utilities Select Sector SPDRÂ® ETF	 Utilities	 4	 $53.29	 +0.72%	 0.14%
+XLV	 Health Care Select Sector SPDRÂ® ETF	 Health	 4	 $80.98	 -0.12%	 0.14%
+XTL	 SPDRÂ® S&P Telecom ETF	 Communications	 4	 $72.30	 +0.18%	 0.35%
+YYY	 YieldShares High Income ETF	 Tactical Allocation	 4	 $19.88	 +0.10%	 1.72%
+AAXJ	 iShares MSCI All Country Asia ex Jpn ETF	 Pacific/Asia ex-Japan Stk	 3	 $70.51	 0.00%	 0.72%
+ACIM	 SPDRÂ® MSCI ACWI IMI ETF	 World Large Stock	 3	 $73.11	 -0.50%	 0.25%
+ACWI	 iShares MSCI ACWI ETF	 World Large Stock	 3	 $67.11	 -0.13%	 0.33%
+ADRD	 BLDRS Developed Markets 100 ADR ETF	 Foreign Large Value	 3	 $22.22	 -0.64%	 0.30%
+ADRE	 BLDRS Emerging Markets 50 ADR ETF	 Diversified Emerging Mkts	 3	 $40.61	 +0.02%	 0.30%
+AFK	 VanEck Vectors Africa ETF	 Miscellaneous Region	 3	 $22.95	 +0.66%	 0.79%
+AGG	 iShares Core US Aggregate Bond ETF	 Intermediate-Term Bond	 3	 $109.92	 +0.17%	 0.05%
+ALD	 WisdomTree Asia Local Debt ETF	 Emerging-Markets Local-Currency Bond	 3	 $45.47	 -0.63%	 0.55%
+ALFA	 AlphaClone Alternative Alpha ETF	 Long-Short Equity	 3	 $40.80	 +0.23%	 0.96%
+AMLP	 Alerian MLP ETF	 Energy Limited Partnership	 3	 $11.90	 -0.42%	 1.42%
+AND	 Global X FTSE Andean 40 ETF	 Latin America Stock	 3	 $9.19	 -0.10%	 0.72%
+AOM	 iShares Core Moderate Allocation ETF	 Allocation--30% to 50% Equity	 3	 $37.52	 +0.08%	 0.25%
+AOR	 iShares Core Growth Allocation ETF	 Allocation--50% to 70% Equity	 3	 $44.01	 -0.11%	 0.25%
+BAB	 PowerShares Taxable Municipal Bond ETF	 Long-Term Bond	 3	 $30.12	 +0.33%	 0.28%
+BBH	 VanEck Vectors Biotech ETF	 Health	 3	 $131.44	 +0.70%	 0.35%
+BCM	 iPathÂ® Pure Beta Broad Commodity ETN	 Commodities Broad Basket	 3	 $26.21	 -0.79%	 0.60%
+BFOR	 Barron's 400 ETF	 Mid-Cap Growth	 3	 $38.37	 -0.36%	 0.65%
+BICK	 First Trust BICK ETF	 Diversified Emerging Mkts	 3	 $27.65	 -0.36%	 0.64%
+BLV	 Vanguard Long-Term Bond ETF	 Long-Term Bond	 3	 $94.11	 +0.32%	 0.07%
+BND	 Vanguard Total Bond Market ETF	 Intermediate-Term Bond	 3	 $82.10	 +0.11%	 0.05%
+BNDS	 SPDRÂ® Blmbg Barclays Aggregate Bond ETF	 Intermediate-Term Bond	 3	 $57.84	 +0.10%	 0.08%
+BRAQ	 Global X Brazil Consumer ETF	 Latin America Stock	 3	 $14.73	 --	 0.77%
+BSCK	 Guggenheim BulletShrs 2020 Corp Bd ETF	 Corporate Bond	 3	 $21.53	 +0.09%	 0.24%
+BSCL	 Guggenheim BulletShrs 2021 Corp Bd ETF	 Corporate Bond	 3	 $21.40	 +0.12%	 0.24%
+BSCM	 Guggenheim BulletShrs 2022 Corp Bd ETF	 Corporate Bond	 3	 $21.43	 0.00%	 0.24%
+BSJK	 Guggenheim BulletShrs 2020 HY CorpBd ETF	 High Yield Bond	 3	 $24.91	 -0.04%	 0.43%
+CBND	 SPDRÂ® Blmbg Barclays Isr Scr CorpBd ETF	 Corporate Bond	 3	 $32.46	 +0.04%	 0.16%
+CEMB	 iShares JP Morgan EM Corporate Bond ETF	 Emerging Markets Bond	 3	 $51.10	 +0.12%	 0.50%
+CHEP	 QuantShares US Market Neutral Value	 Market Neutral	 3	 $25.65	 -0.70%	 0.75%
+COBO	 ProShares USD Covered Bond	 World Bond	 3	 $101.35	 --	 0.35%
+CORP	 PIMCO Investment Grade Corporate Bd ETF	 Corporate Bond	 3	 $105.98	 +0.20%	 0.20%
+CRED	 iShares US Credit Bond ETF	 Corporate Bond	 3	 $112.32	 +0.09%	 0.15%
+CSJ	 iShares 1-3 Year Credit Bond ETF	 Short-Term Bond	 3	 $105.48	 +0.05%	 0.20%
+DBC	 PowerShares DB Commodity Tracking ETF	 Commodities Broad Basket	 3	 $14.45	 -1.37%	 0.85%
+DBEM	 Deutsche X-trackers MSCI Em Mkts Hdgd Eq	 Diversified Emerging Mkts	 3	 $22.69	 +0.04%	 0.65%
+DGRE	 WisdomTree Emerging Mkts Qual Div Gr ETF	 Diversified Emerging Mkts	 3	 $25.02	 -0.28%	 0.32%
+DGS	 WisdomTree Emerging Markets SmCp Div ETF	 Diversified Emerging Mkts	 3	 $47.66	 -0.04%	 0.63%
+DGT	 SPDRÂ® Global Dow ETF	 World Large Stock	 3	 $78.58	 -0.24%	 0.50%
+DHS	 WisdomTree US High Dividend ETF	 Large Value 	 3	 $68.79	 -0.10%	 0.38%
+DOL	 WisdomTree International LargeCp Div ETF	 Foreign Large Value	 3	 $48.25	 -0.37%	 0.48%
+DRW	 WisdomTree Global ex-US Real Estate ETF	 Global Real Estate	 3	 $30.59	 -0.11%	 0.58%
+DTH	 WisdomTree International High Div ETF	 Foreign Large Value	 3	 $42.67	 -0.43%	 0.58%
+DWAQ	 PowerShares DWA NASDAQ Momentum ETF	 Mid-Cap Growth	 3	 $0.00	 --	 0.60%
+DXJ	 WisdomTree Japan Hedged Equity ETF	 Japan Stock	 3	 $52.32	 -0.61%	 0.48%
+DXJR	 WisdomTree Japan Hedged Real Estate ETF	 Japan Stock	 3	 $14.18	 -0.91%	 0.48%
+ECON	 Columbia Emerging Markets Consumer ETF	 Diversified Emerging Mkts	 3	 $27.27	 +0.11%	 0.85%
+EDV	 Vanguard Extended Duration Trs ETF	 Long Government	 3	 $118.45	 +0.64%	 0.07%
+EEH	 ELEMENTS SPECTRUM Lg Cp US Sect Mom ETN	 Large Blend	 3	 $17.87	 --	 0.75%
+EEM	 iShares MSCI Emerging Markets ETF	 Diversified Emerging Mkts	 3	 $43.63	 -0.07%	 0.72%
+EEMA	 iShares MSCI Emerging Markets Asia ETF	 Pacific/Asia ex-Japan Stk	 3	 $67.76	 -0.21%	 0.49%
+EEMV	 iShares Edge MSCI Min Vol Emerg Mkts ETF	 Diversified Emerging Mkts	 3	 $57.19	 -0.02%	 0.25%
+EFA	 iShares MSCI EAFE ETF	 Foreign Large Blend	 3	 $66.55	 -0.39%	 0.33%
+EFG	 iShares MSCI EAFE Growth ETF	 Foreign Large Growth	 3	 $75.55	 -0.26%	 0.40%
+ELD	 WisdomTree Emerging Markets Lcl Dbt ETF	 Emerging-Markets Local-Currency Bond	 3	 $38.64	 0.00%	 0.55%
+EMB	 iShares JP Morgan USD Em Mkts Bd ETF	 Emerging Markets Bond	 3	 $115.29	 +0.23%	 0.40%
+EMCB	 WisdomTree Emerging Markets Corp Bd ETF	 Emerging Markets Bond	 3	 $72.19	 +0.04%	 0.60%
+EMLC	 VanEck Vectors JP Morgan EM LC Bd ETF	 Emerging-Markets Local-Currency Bond	 3	 $19.17	 -0.16%	 0.44%
+EMSH	 ProShares Short Term USD Emerg Mkts Bd	 Emerging Markets Bond	 3	 $78.04	 0.00%	 0.50%
+EQL	 ALPS Equal Sector Weight ETF	 Large Blend	 3	 $64.97	 -0.14%	 0.48%
+EQWM	 PowerShares Russell Midcap Equal Wt ETF	 Mid-Cap Blend	 3	 $44.38	 -0.63%	 0.25%
+EQWS	 PowerShares Russell 2000 Equal Wt ETF	 Small Blend	 3	 $40.42	 -0.83%	 0.25%
+EUDG	 WisdomTree Europe Quality Div Gr ETF	 Europe Stock	 3	 $25.62	 -0.65%	 0.58%
+EUSA	 iShares MSCI USA Equal Weighted ETF	 Large Blend	 3	 $51.80	 -0.05%	 0.15%
+EVX	 VanEck Vectors Environmental Svcs ETF	 Industrials	 3	 $80.98	 -0.34%	 0.55%
+EWA	 iShares MSCI Australia ETF	 Miscellaneous Region	 3	 $22.39	 -1.41%	 0.48%
+EWG	 iShares MSCI Germany ETF	 Miscellaneous Region	 3	 $30.66	 -1.13%	 0.48%
+EWS	 iShares MSCI Singapore Capped ETF	 Miscellaneous Region	 3	 $24.59	 +0.94%	 0.48%
+EZA	 iShares MSCI South Africa ETF	 Miscellaneous Region	 3	 $61.04	 +0.73%	 0.64%
+EZY	 WisdomTree US LargeCap Value ETF	 Large Value 	 3	 $73.40	 -0.41%	 0.38%
+FAB	 First Trust Multi Cap Val AlphaDEXÂ® ETF	 Mid-Cap Value	 3	 $52.98	 -0.18%	 0.68%
+FDL	 First Trust Morningstar Div Leaders ETF	 Large Value 	 3	 $28.15	 -0.25%	 0.45%
+FDTS	 First Trust DevMkts exUS SC AlphaDEXÂ®ETF	 Foreign Small/Mid Value	 3	 $0.00	 --	 0.80%
+FEX	 First Trust Large Cap Core AlphaDEXÂ® ETF	 Large Blend	 3	 $54.35	 +0.09%	 0.61%
+FFR	 First Trust FTSE EN Dev Mkts Rel Est ETF	 Global Real Estate	 3	 $44.76	 -0.56%	 0.60%
+FGD	 First Trust Dow Jones Global Sel Div ETF	 Foreign Large Value	 3	 $25.43	 -0.43%	 0.58%
+FHK	 First Trust Hong Kong AlphaDEXÂ® ETF	 China Region	 3	 $39.03	 -0.89%	 0.80%
+FIEG	 DB FI Enhanced Global High Yield ETN	 World Large Stock	 3	 $156.08	 --	 0.10%
+FIGY	 Barclays ETN+ FI Enhanced Glb Hi Yld	 World Large Stock	 3	 $155.79	 -0.29%	 0.64%
+FNDA	 Schwab Fundamental US Small Company ETF	 Small Blend	 3	 $35.23	 -0.37%	 0.25%
+FNDF	 Schwab Fundamental Intl Lg Co ETF	 Foreign Large Value	 3	 $28.74	 -0.28%	 0.25%
+FNK	 First Trust Mid Cap Value AlphaDEXÂ® ETF	 Small Value	 3	 $33.86	 -0.26%	 0.70%
+FNX	 First Trust Mid Cap Core AlphaDEXÂ® ETF	 Mid-Cap Blend	 3	 $60.37	 -0.17%	 0.63%
+FNY	 First Trust Mid Cap Growth AlphaDEXÂ® ETF	 Mid-Cap Growth	 3	 $35.31	 -0.49%	 0.70%
+FONE	 First Trust NASDAQ Smartphone ETF	 Technology	 3	 $50.21	 -0.29%	 0.70%
+FRI	 First Trust S&P REIT ETF	 Real Estate	 3	 $23.37	 -0.04%	 0.49%
+FSTA	 FidelityÂ® MSCI Consumer Staples ETF	 Consumer Defensive	 3	 $33.11	 +0.09%	 0.08%
+FTC	 First Trust Large Cap Gr AlphaDEXÂ® ETF	 Large Growth	 3	 $56.32	 +0.04%	 0.62%
+FTEC	 FidelityÂ® MSCI Information Tech ETF	 Technology	 3	 $44.98	 -0.24%	 0.08%
+FTSD	 Franklin Liberty Short Dur US Govt ETF	 Short Government	 3	 $96.56	 +0.03%	 0.30%
+FTSL	 First Trust Senior Loan ETF	 Bank Loan	 3	 $48.56	 -0.14%	 0.86%
+FTW	 First Trust Taiwan AlphaDEXÂ® ETF	 China Region	 3	 $37.03	 -1.01%	 0.80%
+FWDD	 AdvisorShares Madrona Domestic ETF	 Large Blend	 3	 $49.46	 --	 1.25%
+FXD	 First Trust Cnsmr Discret AlphaDEXÂ® ETF	 Consumer Cyclical	 3	 $37.45	 0.00%	 0.61%
+FYC	 First Trust Small Cap Gr AlphaDEXÂ® ETF	 Small Growth	 3	 $39.15	 -0.51%	 0.70%
+FYX	 First Trust Small Cap Core AlphaDEXÂ® ETF	 Small Blend	 3	 $56.45	 -0.47%	 0.64%
+GBF	 iShares Government/Credit Bond ETF	 Intermediate-Term Bond	 3	 $114.78	 +0.24%	 0.20%
+GMF	 SPDRÂ® S&P Emerging Asia Pacific ETF	 Pacific/Asia ex-Japan Stk	 3	 $95.19	 -0.26%	 0.49%
+GMMB	 Columbia Intermediate Municipal Bond ETF	 Muni National Interm	 3	 $53.21	 --	 0.44%
+GMTB	 Columbia Core Bond ETF	 Intermediate-Term Bond	 3	 $51.79	 +0.19%	 0.49%
+GNMA	 iShares GNMA Bond ETF	 Intermediate Government	 3	 $49.84	 +0.06%	 0.15%
+GNR	 SPDRÂ® S&P Global Natural Resources ETF	 Natural Resources	 3	 $42.99	 -0.74%	 0.40%
+GOVT	 iShares US Treasury Bond ETF	 Intermediate Government	 3	 $25.35	 +0.20%	 0.15%
+GRES	 IQ Global Resources ETF	 Natural Resources	 3	 $26.09	 +0.19%	 0.78%
+GRI	 Cohen & Steers Global Realty Majors ETF	 Global Real Estate	 3	 $44.33	 -0.50%	 0.55%
+GUNR	 FlexShares Mstar Glbl Upstrm Nat Res ETF	 Natural Resources	 3	 $29.45	 -0.57%	 0.46%
+GWX	 SPDRÂ® S&P International Small Cap ETF	 Foreign Small/Mid Blend	 3	 $34.16	 +0.09%	 0.40%
+GXC	 SPDRÂ® S&P China ETF	 China Region	 3	 $94.98	 -0.15%	 0.59%
+HAP	 VanEck Vectors Natural Resources ETF	 Natural Resources	 3	 $33.71	 -0.49%	 0.50%
+HDG	 ProShares Hedge Replication	 Multialternative	 3	 $44.42	 -0.31%	 0.95%
+HDV	 iShares Core High Dividend ETF	 Large Value 	 3	 $83.37	 -0.31%	 0.08%
+HEWJ	 iShares Currency Hedged MSCI Japan ETF	 Japan Stock	 3	 $29.64	 -0.57%	 0.49%
+HOLD	 AdvisorShares Sage Core Reserves ETF	 UltraShort Bond	 3	 $99.44	 --	 0.37%
+HUSE	 US Market Rotation Strategy ETF	 Large Blend	 3	 $38.65	 -0.23%	 1.07%
+HYD	 VanEck Vectors High-Yield Municipal ETF	 High Yield Muni	 3	 $31.01	 -0.13%	 0.35%
+HYG	 iShares iBoxx $ High Yield Corp Bd ETF	 High Yield Bond	 3	 $88.73	 -0.08%	 0.49%
+HYLS	 First Trust Tactical High Yield ETF	 High Yield Bond	 3	 $49.50	 -0.44%	 0.95%
+HYMB	 SPDRÂ® Nuveen S&P High Yield Muni Bd ETF	 High Yield Muni	 3	 $57.33	 +0.16%	 0.45%
+HYS	 PIMCO 0-5 Year High Yield Corp Bd ETF	 High Yield Bond	 3	 $101.59	 -0.09%	 0.55%
+HYXU	 iShares International High Yield Bd ETF	 World Bond	 3	 $52.23	 +0.50%	 0.40%
+IAI	 iShares US Broker-Dealers&Secs Exchs ETF	 Financial	 3	 $54.31	 +0.48%	 0.44%
+IAT	 iShares US Regional Banks ETF	 Financial	 3	 $45.20	 -0.81%	 0.44%
+IBB	 iShares Nasdaq Biotechnology ETF	 Health	 3	 $324.88	 +0.61%	 0.47%
+IBCE	 iShares iBonds Mar 2023Tm CorpexFncl ETF	 Corporate Bond	 3	 $24.60	 -0.20%	 0.10%
+IBDB	 iShares iBonds Mar 2018 Term Corp ETF	 Short-Term Bond	 3	 $25.63	 +0.03%	 0.10%
+IBDD	 iShares iBonds Mar 2023 Term Corp ETF	 Corporate Bond	 3	 $26.85	 +0.26%	 0.10%
+IBMF	 iShares iBonds Sep 2017 Term Muni Bd ETF	 Muni National Short	 3	 $27.22	 +0.06%	 0.18%
+IBMG	 iShares iBonds Sep 2018 Term Muni Bd ETF	 Muni National Short	 3	 $25.46	 -0.16%	 0.18%
+ICF	 iShares Cohen & Steers REIT ETF	 Real Estate	 3	 $101.56	 -0.03%	 0.35%
+ICSH	 iShares Ultra Short-Term Bond ETF	 UltraShort Bond	 3	 $50.11	 0.00%	 0.08%
+IDHQ	 PowerShares S&P Intl Dev Quality ETF	 Foreign Small/Mid Value	 3	 $22.89	 -0.44%	 0.29%
+IDLV	 PowerShares S&P Intl Dev Low Volatil ETF	 Foreign Large Blend	 3	 $32.97	 +0.06%	 0.25%
+IDU	 iShares US Utilities ETF	 Utilities	 3	 $133.56	 +0.78%	 0.44%
+IDV	 iShares International Select Div ETF	 Foreign Large Value	 3	 $33.48	 -0.27%	 0.50%
+IEFA	 iShares Core MSCI EAFE ETF	 Foreign Large Blend	 3	 $62.19	 -0.34%	 0.08%
+IEMG	 iShares Core MSCI Emerging Markets ETF	 Diversified Emerging Mkts	 3	 $52.56	 -0.13%	 0.14%
+IEO	 iShares US Oil & Gas Explor & Prod ETF	 Equity Energy	 3	 $54.82	 -0.81%	 0.44%
+IEUR	 iShares Core MSCI Europe ETF	 Europe Stock	 3	 $47.87	 -0.58%	 0.10%
+IEV	 iShares Europe ETF	 Europe Stock	 3	 $45.23	 -0.62%	 0.60%
+IGE	 iShares North American Natural Res ETF	 Natural Resources	 3	 $32.13	 -0.71%	 0.48%
+IGF	 iShares Global Infrastructure ETF	 Infrastructure	 3	 $45.22	 +0.07%	 0.47%
+IGHG	 ProShares Investment Gradeâ€”Intr Rt Hdgd	 Nontraditional Bond	 3	 $76.66	 +0.14%	 0.30%
+IHE	 iShares US Pharmaceuticals ETF	 Health	 3	 $158.33	 -0.01%	 0.44%
+IHF	 iShares US Healthcare Providers ETF	 Health	 3	 $150.34	 -0.13%	 0.44%
+INDA	 iShares MSCI India ETF	 India Equity	 3	 $33.79	 +0.06%	 0.71%
+INDY	 iShares India 50 ETF	 India Equity	 3	 $35.11	 -0.06%	 0.94%
+IOO	 iShares Global 100 ETF	 World Large Stock	 3	 $85.78	 -0.51%	 0.40%
+IPAC	 iShares Core MSCI Pacific ETF	 Diversified Pacific/Asia	 3	 $55.29	 -0.02%	 0.10%
+IPW	 SPDRÂ® S&P International Energy Sect ETF	 Equity Energy	 3	 $17.88	 -1.13%	 0.40%
+IQDF	 FlexShares Intl Qual Div ETF	 Foreign Large Value	 3	 $26.01	 +0.04%	 0.47%
+IQDY	 FlexShares Intl Qual Div Dynamic ETF	 Foreign Large Value	 3	 $27.22	 -0.50%	 0.47%
+IRV	 SPDRÂ® S&P International Matls Sect ETF	 Natural Resources	 3	 $23.31	 --	 0.40%
+ITM	 VanEck Vectors AMT-Free Interm Muni ETF	 Muni National Interm	 3	 $24.09	 +0.12%	 0.24%
+IWC	 iShares Micro-Cap ETF	 Small Blend	 3	 $89.18	 -0.49%	 0.60%
+IWD	 iShares Russell 1000 Value ETF	 Large Value 	 3	 $116.76	 -0.15%	 0.20%
+IWM	 iShares Russell 2000 ETF	 Small Blend	 3	 $142.55	 -0.45%	 0.20%
+IWN	 iShares Russell 2000 Value ETF	 Small Value	 3	 $119.47	 -0.52%	 0.25%
+IWO	 iShares Russell 2000 Growth ETF	 Small Growth	 3	 $171.95	 -0.41%	 0.25%
+IWP	 iShares Russell Mid-Cap Growth ETF	 Mid-Cap Growth	 3	 $109.97	 -0.10%	 0.25%
+IWX	 iShares Russell Top 200 Value ETF	 Large Value 	 3	 $48.83	 -0.34%	 0.20%
+IXJ	 iShares Global Healthcare ETF	 Health	 3	 $110.76	 -0.25%	 0.47%
+IXN	 iShares Global Tech ETF	 Technology	 3	 $137.89	 -0.24%	 0.47%
+IXUS	 iShares Core MSCI Total Intl Stk ETF	 Foreign Large Blend	 3	 $59.08	 -0.30%	 0.11%
+IYF	 iShares US Financials ETF	 Financial	 3	 $108.61	 +0.02%	 0.44%
+IYG	 iShares US Financial Services ETF	 Financial	 3	 $114.22	 -0.06%	 0.44%
+IYH	 iShares US Healthcare ETF	 Health	 3	 $169.80	 -0.11%	 0.44%
+IYJ	 iShares US Industrials ETF	 Industrials	 3	 $133.52	 -0.17%	 0.44%
+IYK	 iShares US Consumer Goods ETF	 Consumer Defensive	 3	 $122.81	 +0.20%	 0.44%
+IYR	 iShares US Real Estate ETF	 Real Estate	 3	 $80.45	 +0.21%	 0.44%
+IYT	 iShares Transportation Average ETF	 Industrials	 3	 $170.51	 -0.13%	 0.44%
+IYW	 iShares US Technology ETF	 Technology	 3	 $147.09	 -0.26%	 0.44%
+IYZ	 iShares US Telecommunications ETF	 Communications	 3	 $31.97	 +0.69%	 0.44%
+JKE	 iShares Morningstar Large-Cap Growth ETF	 Large Growth	 3	 $144.80	 +0.02%	 0.25%
+JKF	 iShares Morningstar Large-Cap Value ETF	 Large Value 	 3	 $96.28	 -0.21%	 0.25%
+JKH	 iShares Morningstar Mid-Cap Growth ETF	 Mid-Cap Growth	 3	 $186.48	 -0.06%	 0.30%
+JKJ	 iShares Morningstar Small-Cap ETF	 Small Blend	 3	 $162.53	 -0.55%	 0.25%
+JKK	 iShares Morningstar Small-Cap Growth ETF	 Small Growth	 3	 $165.22	 -0.24%	 0.30%
+JPMV	 iShares Edge MSCI Min Vol Japan ETF	 Japan Stock	 3	 $63.18	 +0.14%	 0.30%
+KBA	 KraneShares Bosera MSCI China A ETF	 China Region	 3	 $31.65	 -0.17%	 0.64%
+KBWB	 PowerShares KBW Bank ETF	 Financial	 3	 $48.89	 -0.27%	 0.35%
+KBWR	 PowerShares KBW Regional Banking ETF	 Financial	 3	 $52.86	 -0.84%	 0.35%
+KRE	 SPDRÂ® S&P Regional Banking ETF	 Financial	 3	 $54.25	 -0.90%	 0.35%
+KWEB	 KraneShares CSI China Internet ETF	 China Region	 3	 $51.84	 +0.08%	 0.72%
+LIT	 Global X Lithium & Battery Tech ETF	 Natural Resources	 3	 $30.68	 +0.26%	 0.76%
+LQD	 iShares iBoxx $ Invmt Grade Corp Bd ETF	 Corporate Bond	 3	 $121.55	 +0.23%	 0.15%
+LTPZ	 PIMCO 15+ Year US TIPS ETF	 Inflation-Protected Bond	 3	 $65.97	 +0.26%	 0.20%
+MCHI	 iShares MSCI China ETF	 China Region	 3	 $58.14	 -0.10%	 0.64%
+MLPA	 Global X MLP ETF	 Energy Limited Partnership	 3	 $10.94	 -0.73%	 0.47%
+MLPX	 Global X MLP & Energy Infrastructure ETF	 Energy Limited Partnership	 3	 $14.17	 -0.14%	 0.45%
+MMTM	 SPDRÂ® S&P 1500 Momentum Tilt ETF	 Large Blend	 3	 $104.22	 +0.16%	 0.12%
+MRGR	 ProShares Merger	 Market Neutral	 3	 $35.83	 -0.03%	 0.75%
+MUB	 iShares National Muni Bond ETF	 Muni National Interm	 3	 $110.93	 +0.07%	 0.25%
+MXI	 iShares Global Materials ETF	 Natural Resources	 3	 $62.14	 -0.48%	 0.47%
+NFO	 Guggenheim Insider Sentiment ETF	 Mid-Cap Blend	 3	 $57.27	 +0.09%	 0.67%
+NYF	 iShares New York Muni Bond ETF	 Muni New York Intermediate	 3	 $112.00	 +0.02%	 0.25%
+PAGG	 PowerShares Global Agriculture ETF	 Natural Resources	 3	 $25.74	 -0.29%	 0.76%
+PDN	 PowerShares FTSE RAFI DvMkt exUS S/M ETF	 Foreign Small/Mid Value	 3	 $32.02	 -0.09%	 0.49%
+PDP	 PowerShares DWA Momentum ETF	 Mid-Cap Growth	 3	 $48.25	 +0.17%	 0.64%
+PEJ	 PowerShares Dynamic Leisure & Entmnt ETF	 Consumer Cyclical	 3	 $41.75	 -0.43%	 0.61%
+PFI	 PowerShares DWA Financial Momentum ETF	 Financial	 3	 $31.78	 -0.52%	 0.60%
+PFM	 PowerShares Dividend Achieversâ„¢ ETF	 Large Value 	 3	 $24.26	 -0.16%	 0.55%
+PGJ	 PowerShares Golden Dragon China ETF	 China Region	 3	 $40.85	 +0.10%	 0.70%
+PGX	 PowerShares Preferred ETF	 Preferred Stock	 3	 $15.13	 +0.07%	 0.50%
+PIZ	 PowerShares DWA Developed Mkts Mom ETF	 Foreign Large Growth	 3	 $26.30	 -0.38%	 0.81%
+PLW	 PowerShares 1-30 Laddered Treasury ETF	 Long Government	 3	 $32.84	 +0.16%	 0.25%
+PSAU	 PowerShares Global Gold & Prec Mtls ETF	 Equity Precious Metals	 3	 $19.23	 +0.31%	 0.75%
+PSCD	 PowerShares S&P SmCap Cnsmr Discret ETF	 Consumer Cyclical	 3	 $53.96	 -1.02%	 0.29%
+PSCF	 PowerShares S&P SmallCap Financials ETF	 Financial	 3	 $52.01	 -0.13%	 0.29%
+PSCI	 PowerShares S&P SmallCap Industrials ETF	 Industrials	 3	 $57.21	 -0.73%	 0.29%
+PSK	 SPDRÂ® Wells Fargo Preferred Stock ETF	 Preferred Stock	 3	 $45.28	 +0.29%	 0.45%
+PWC	 PowerShares Dynamic Market ETF	 Mid-Cap Blend	 3	 $88.10	 -0.06%	 0.60%
+PWZ	 PowerShares Calif AMT-Free Muni Bd ETF	 Muni California Long	 3	 $26.15	 +0.11%	 0.28%
+PXE	 PowerShares Dynamic Engy Explr&Prdtn ETF	 Equity Energy	 3	 $19.04	 -1.09%	 0.75%
+PXF	 PowerShares FTSE RAFI Dev Mkts ex-US ETF	 Foreign Large Value	 3	 $42.76	 -0.30%	 0.45%
+PXLG	 PowerShares Russell Top 200 Pure Gr ETF	 Large Growth	 3	 $41.47	 -0.24%	 0.39%
+PXMG	 PowerShares Russell Midcap Pure Gr ETF	 Mid-Cap Growth	 3	 $37.38	 +0.03%	 0.39%
+PXMV	 PowerShares Russell Midcap Pure Val ETF	 Mid-Cap Value	 3	 $30.51	 -0.30%	 0.39%
+PXSG	 PowerShares Russell 2000 Pure Growth ETF	 Small Growth	 3	 $30.05	 -0.53%	 0.39%
+PXSV	 PowerShares Russell 2000 Pure Value ETF	 Small Value	 3	 $29.31	 -0.99%	 0.39%
+PZD	 PowerShares Cleantech ETF	 Miscellaneous Sector	 3	 $39.79	 -0.54%	 0.67%
+QABA	 First Trust NASDAQÂ® ABA Community Bk ETF	 Financial	 3	 $50.27	 -0.65%	 0.60%
+QAI	 IQ Hedge Multi-Strategy Tracker ETF	 Multialternative	 3	 $29.69	 0.00%	 0.96%
+QDYN	 FlexShares Quality Dividend Dynamic ETF	 Large Value 	 3	 $40.60	 +0.30%	 0.37%
+QEMM	 SPDRÂ® MSCI Emerging Mkts StratcFacts ETF	 Diversified Emerging Mkts	 3	 $60.35	 +0.12%	 0.30%
+QJPN	 SPDRÂ® MSCI Japan StrategicFactors ETF	 Japan Stock	 3	 $72.53	 --	 0.30%
+QMN	 IQ Hedge Market Neutral Tracker ETF	 Market Neutral	 3	 $25.41	 +0.15%	 0.94%
+QQQC	 Global X NASDAQ China Technology ETF	 China Region	 3	 $26.67	 -0.87%	 0.65%
+QQXT	 First Trust NASDAQ-100 ex-Tech Sect ETF	 Large Growth	 3	 $47.23	 +0.09%	 0.60%
+RALS	 ProShares RAFIÂ® Long/Short	 Market Neutral	 3	 $37.51	 -0.33%	 0.95%
+RAVI	 FlexShares Ready Access Variable Inc ETF	 UltraShort Bond	 3	 $75.52	 -0.04%	 0.25%
+RCD	 Guggenheim S&P 500Â® Eq Wt Cons Discr ETF	 Consumer Cyclical	 3	 $92.71	 -0.10%	 0.40%
+RFV	 Guggenheim S&P MidCap 400Â® Pure Val ETF	 Small Value	 3	 $64.38	 -0.19%	 0.35%
+RJI	 ELEMENTS Rogers Intl Cmdty TR ETN	 Commodities Broad Basket	 3	 $4.86	 -1.22%	 0.75%
+RPV	 Guggenheim S&P 500Â® Pure Value ETF	 Large Value 	 3	 $60.80	 +0.05%	 0.35%
+RWJ	 Oppenheimer Small Cap Revenue ETF	 Small Blend	 3	 $66.41	 -0.86%	 0.39%
+RWK	 Oppenheimer Mid Cap Revenue ETF	 Mid-Cap Value	 3	 $57.44	 -0.23%	 0.39%
+RWO	 SPDRÂ® Dow Jones Global Real Estate ETF	 Global Real Estate	 3	 $48.25	 +0.02%	 0.50%
+RWR	 SPDRÂ® Dow Jones REIT ETF	 Real Estate	 3	 $93.31	 -0.13%	 0.25%
+RXI	 iShares Global Consumer Discr ETF	 Consumer Cyclical	 3	 $100.63	 -0.07%	 0.47%
+RYJ	 Guggenheim Raymond James SB-1 Equity ETF	 Mid-Cap Growth	 3	 $40.41	 -0.51%	 0.75%
+SCHE	 Schwab Emerging Markets Equity ETFâ„¢	 Diversified Emerging Mkts	 3	 $26.07	 -0.27%	 0.13%
+SCHF	 Schwab International Equity ETFâ„¢	 Foreign Large Blend	 3	 $32.53	 -0.34%	 0.06%
+SCHH	 Schwab US REIT ETFâ„¢	 Real Estate	 3	 $41.36	 -0.07%	 0.07%
+SCHO	 Schwab Short-Term US Treasury ETFâ„¢	 Short Government	 3	 $50.49	 +0.08%	 0.06%
+SCHR	 Schwab Intermediate-Term US Trs ETFâ„¢	 Intermediate Government	 3	 $54.16	 +0.13%	 0.06%
+SCHZ	 Schwab US Aggregate Bond ETFâ„¢	 Intermediate-Term Bond	 3	 $52.44	 +0.11%	 0.04%
+SCJ	 iShares MSCI Japan Small-Cap ETF	 Japan Stock	 3	 $71.37	 +0.49%	 0.48%
+SHM	 SPDRÂ® Nuveen Blmbg Barclays ST MunBd ETF	 Muni National Short	 3	 $48.74	 +0.04%	 0.20%
+SHY	 iShares 1-3 Year Treasury Bond ETF	 Short Government	 3	 $84.58	 +0.05%	 0.15%
+SHYG	 iShares 0-5 Year High Yield Corp Bd ETF	 High Yield Bond	 3	 $47.90	 -0.04%	 0.30%
+SIPE	 SPDRÂ® Blmbg Barclays 0-5 Year TIPS ETF	 Inflation-Protected Bond	 3	 $19.53	 0.00%	 0.15%
+SKYY	 First Trust Cloud Computing ETF	 Technology	 3	 $41.40	 -0.07%	 0.60%
+SLVP	 iShares MSCI Global Silver Miners ETF	 Equity Precious Metals	 3	 $11.18	 +0.36%	 0.39%
+SMB	 VanEck Vectors AMT-Free Short Muni ETF	 Muni National Short	 3	 $17.57	 +0.11%	 0.20%
+SMEZ	 SPDRÂ® EURO STOXX Small Cap ETF	 Europe Stock	 3	 $58.65	 -0.86%	 0.45%
+SMIN	 iShares MSCI India Small-Cap ETF	 India Equity	 3	 $45.80	 -0.69%	 0.80%
+SOXX	 iShares PHLX Semiconductor ETF	 Technology	 3	 $149.94	 -0.85%	 0.48%
+SUSA	 iShares MSCI USA ESG Select ETF	 Large Blend	 3	 $103.98	 -0.01%	 0.50%
+THHY	 VanEck Vectors Trs-Hdgd Hi Yld Bd ETF	 Nontraditional Bond	 3	 $23.77	 -0.16%	 0.50%
+TILT	 FlexShares Mstar US Mkt Factors Tilt ETF	 Large Blend	 3	 $103.49	 -0.17%	 0.25%
+TIPX	 SPDRÂ® Blmbg Barclays 1-10 Year TIPS ETF	 Inflation-Protected Bond	 3	 $19.50	 +0.25%	 0.15%
+TIPZ	 PIMCO Broad US TIPS ETF	 Inflation-Protected Bond	 3	 $57.72	 +0.21%	 0.20%
+TLH	 iShares 10-20 Year Treasury Bond ETF	 Long Government	 3	 $137.15	 +0.32%	 0.15%
+TLT	 iShares 20+ Year Treasury Bond ETF	 Long Government	 3	 $125.69	 +0.42%	 0.15%
+TLTD	 FlexShares Mstar DevMks exUS FctTilt ETF	 Foreign Large Blend	 3	 $64.38	 -0.40%	 0.39%
+TLTE	 FlexShares Mstar EmgMkts FctTilt ETF	 Diversified Emerging Mkts	 3	 $55.48	 -0.56%	 0.59%
+TRSK	 Janus Velocity Tail Risk Hdgd Lg Cp ETF	 Long-Short Equity	 3	 $29.76	 -0.25%	 0.70%
+TUZ	 PIMCO 1-3 Year US Treasury ETF	 Short Government	 3	 $50.70	 +0.02%	 0.15%
+UCI	 UBS ETRACS CMCI Total Return ETN	 Commodities Broad Basket	 3	 $13.62	 -0.95%	 0.55%
+ULST	 SPDRÂ® SSgA Ultra Short Term Bond ETF	 UltraShort Bond	 3	 $40.30	 +0.16%	 0.20%
+VBK	 Vanguard Small-Cap Growth ETF	 Small Growth	 3	 $148.67	 -0.17%	 0.07%
+VCIT	 Vanguard Interm-Term Corp Bd ETF	 Corporate Bond	 3	 $88.21	 +0.22%	 0.07%
+VEGA	 AdvisorShares STAR Global Buy-Write ETF	 Option Writing	 3	 $29.48	 -0.17%	 2.03%
+VEU	 Vanguard FTSE All-Wld ex-US ETF	 Foreign Large Blend	 3	 $51.47	 -0.33%	 0.11%
+VGIT	 Vanguard Interm-Term Govt Bd ETF	 Intermediate Government	 3	 $64.94	 +0.17%	 0.07%
+VGK	 Vanguard FTSE Europe ETF	 Europe Stock	 3	 $56.38	 -0.51%	 0.10%
+VGSH	 Vanguard Short-Term Government Bond ETF	 Short Government	 3	 --	 --	 0.07%
+VIDI	 Vident International Equity	 Foreign Large Blend	 3	 $26.48	 -0.23%	 0.68%
+VIS	 Vanguard Industrials ETF	 Industrials	 3	 $129.66	 -0.28%	 0.10%
+VLUE	 iShares Edge MSCI USA Value Factor ETF	 Large Value 	 3	 $74.85	 -0.12%	 0.15%
+VNQI	 Vanguard Global ex-US Real Est ETF	 Global Real Estate	 3	 $57.87	 +0.09%	 0.15%
+VPL	 Vanguard FTSE Pacific ETF	 Diversified Pacific/Asia	 3	 $67.36	 +0.01%	 0.10%
+VRP	 PowerShares Variable Rate Preferred ETF	 Preferred Stock	 3	 $26.19	 -0.08%	 0.50%
+VT	 Vanguard Total World Stock ETF	 World Large Stock	 3	 $69.16	 -0.17%	 0.11%
+VTIP	 Vanguard Short-Term Infl-Prot Secs ETF	 Inflation-Protected Bond	 3	 $49.30	 0.00%	 0.07%
+VTWG	 Vanguard Russell 2000 Growth ETF	 Small Growth	 3	 $124.88	 -0.41%	 0.20%
+VTWO	 Vanguard Russell 2000 ETF	 Small Blend	 3	 $114.48	 -0.50%	 0.15%
+VTWV	 Vanguard Russell 2000 Value ETF	 Small Value	 3	 $103.79	 -0.58%	 0.20%
+VUSE	 Vident Core US Equity	 Mid-Cap Value	 3	 $30.32	 -0.67%	 0.55%
+VWO	 Vanguard FTSE Emerging Markets ETF	 Diversified Emerging Mkts	 3	 $42.60	 -0.21%	 0.14%
+VXF	 Vanguard Extended Market ETF	 Mid-Cap Blend	 3	 $104.03	 -0.29%	 0.08%
+VXUS	 Vanguard Total International Stock ETF	 Foreign Large Blend	 3	 $53.42	 -0.43%	 0.11%
+WPS	 iShares International Dev Prpty ETF	 Global Real Estate	 3	 $37.67	 -0.13%	 0.48%
+WREI	 Wilshire US REIT ETF	 Real Estate	 3	 $47.13	 -0.35%	 0.32%
+XHS	 SPDRÂ® S&P Health Care Services ETF	 Health	 3	 $64.10	 -0.44%	 0.35%
+XLF	 Financial Select Sector SPDRÂ® ETF	 Financial	 3	 $24.80	 0.00%	 0.14%
+XSD	 SPDRÂ® S&P Semiconductor ETF	 Technology	 3	 $65.92	 -0.99%	 0.35%
+XSW	 SPDRÂ® S&P Software & Services ETF	 Technology	 3	 $64.36	 -0.07%	 0.35%
+XTN	 SPDRÂ® S&P Transportation ETF	 Industrials	 3	 $56.27	 -0.31%	 0.35%
+YAO	 Guggenheim China All-Cap ETF	 China Region	 3	 $31.56	 -0.03%	 0.70%
+YMLI	 VanEck Vectors High Inc Infras MLP ETF	 Energy Limited Partnership	 3	 $14.78	 -0.51%	 0.82%
+ACWX	 iShares MSCI ACWI ex US ETF	 Foreign Large Blend	 2	 $46.92	 -0.34%	 0.33%
+ADRU	 BLDRS Europe Select ADR ETF	 Europe Stock	 2	 $21.91	 -0.41%	 0.30%
+AGZD	 WisdomTree Barclays IntrRtHgUSAggtBd ETF	 Nontraditional Bond	 2	 $48.09	 +0.09%	 0.23%
+AIRR	 First Trust RBA Amer Indl RenaisTM ETF	 Industrials	 2	 $23.89	 -0.54%	 0.70%
+AMJ	 JPMorgan Alerian MLP ETN	 Energy Limited Partnership	 2	 $29.73	 -0.87%	 0.85%
+AMU	 UBS ETRACS Alerian MLP ETN	 Energy Limited Partnership	 2	 $18.75	 -0.79%	 0.80%
+AOK	 iShares Core Conservative Allocation ETF	 Allocation--30% to 50% Equity	 2	 $34.17	 -0.15%	 0.25%
+AXJL	 WisdomTree Asia Pacific ex-Japan ETF	 Pacific/Asia ex-Japan Stk	 2	 $67.40	 -0.28%	 0.48%
+AXJV	 iShares Edge MSCI Min Vol Asia exJpn ETF	 Pacific/Asia ex-Japan Stk	 2	 $34.17	 +0.47%	 0.35%
+BDCS	 UBS ETRACS Wells Fargo Busn Dev Co ETN	 Financial	 2	 $22.36	 +0.38%	 0.85%
+BIL	 SPDRÂ® Blmbg Barclays 1-3 Mth T-Bill ETF	 UltraShort Bond	 2	 $45.73	 +0.02%	 0.14%
+BIZD	 VanEck Vectors BDC Income ETF	 Financial	 2	 $18.14	 +0.14%	 9.20%
+BKF	 iShares MSCI BRIC ETF	 Diversified Emerging Mkts	 2	 $39.72	 -0.30%	 0.72%
+BKLN	 PowerShares Senior Loan ETF	 Bank Loan	 2	 $23.24	 +0.09%	 0.65%
+BRAZ	 Global X Brazil Mid Cap ETF	 Latin America Stock	 2	 $10.42	 --	 0.69%
+BSCI	 Guggenheim BulletShrs 2018 Corp Bd ETF	 Corporate Bond	 2	 $21.21	 0.00%	 0.24%
+BSJH	 Guggenheim BulletShrs 2017 HY CorpBd ETF	 High Yield Bond	 2	 $25.69	 -0.04%	 0.43%
+BSJI	 Guggenheim BulletShrs 2018 HY CorpBd ETF	 High Yield Bond	 2	 $25.37	 -0.02%	 0.43%
+BSJJ	 Guggenheim BulletShrs 2019 HY CorpBd ETF	 High Yield Bond	 2	 $24.70	 +0.04%	 0.43%
+BTAL	 QuantShares US Market Neut Anti-Beta	 Market Neutral	 2	 $19.86	 +0.40%	 0.75%
+BWV	 iPathÂ® CBOE S&P 500 BuyWrite ETN	 Large Blend	 2	 $75.06	 -0.04%	 0.75%
+BWX	 SPDRÂ® Blmbg Barclays Intl Trs Bd ETF	 World Bond	 2	 $28.09	 +0.11%	 0.50%
+CARZ	 First Trust NASDAQ Global Auto ETF	 Consumer Cyclical	 2	 $37.45	 -1.71%	 0.70%
+CGW	 Guggenheim S&P Global Water ETF	 Miscellaneous Sector	 2	 $33.59	 +0.09%	 0.64%
+CHII	 Global X China Industrials ETF	 China Region	 2	 $14.69	 -1.73%	 0.65%
+CHIX	 Global X China Financials ETF	 China Region	 2	 $16.33	 -0.79%	 0.65%
+CIU	 iShares Intermediate Credit Bond ETF	 Corporate Bond	 2	 $110.19	 +0.12%	 0.20%
+CNTR	 PowerShares Contrarian Opportunities ETF	 Mid-Cap Value	 2	 $30.48	 --	 0.35%
+CPI	 IQ Real Return ETF	 Tactical Allocation	 2	 $27.42	 +0.03%	 0.62%
+CROP	 IQ Global Agribusiness Small Cap ETF	 Consumer Defensive	 2	 $34.40	 --	 0.76%
+CSD	 Guggenheim S&P Spin-Off ETF	 Mid-Cap Blend	 2	 $49.13	 +0.03%	 0.65%
+DIV	 Global X SuperDividendâ„¢ US ETF	 Mid-Cap Value	 2	 $25.61	 +0.16%	 0.45%
+DJCI	 UBS ETRACS Bloomberg Cmdty Tot Ret ETN	 Commodities Broad Basket	 2	 $15.07	 -0.77%	 0.50%
+DJP	 iPathÂ® Bloomberg Cmdty TR ETN	 Commodities Broad Basket	 2	 $22.78	 -0.87%	 0.75%
+DNL	 WisdomTree Global ex-US Qual Div Gr ETF	 Foreign Large Growth	 2	 $54.93	 -0.42%	 0.58%
+DOO	 WisdomTree Intl Div ex-Fincls ETF	 Foreign Large Value	 2	 $41.74	 -0.45%	 0.58%
+ECNS	 iShares MSCI China Small-Cap ETF	 China Region	 2	 $47.33	 -0.34%	 0.64%
+EDOG	 ALPS Emerging Sector Dividend Dogs ETF	 Diversified Emerging Mkts	 2	 $24.67	 -0.03%	 0.60%
+EFV	 iShares MSCI EAFE Value ETF	 Foreign Large Value	 2	 $52.67	 -0.47%	 0.40%
+EMAG	 VanEck Vectors EM Aggregate Bond ETF	 Emerging Markets Bond	 2	 $21.82	 -0.19%	 0.49%
+EMCG	 WisdomTree Emerging Markets Cnsmr Gr ETF	 Diversified Emerging Mkts	 2	 $24.52	 -0.09%	 0.32%
+EMCR	 Columbia Emerging Markets Core ETF	 Diversified Emerging Mkts	 2	 $20.07	 -2.15%	 0.70%
+EMIF	 iShares Emerging Markets Infras ETF	 Diversified Emerging Mkts	 2	 --	 --	 0.75%
+ENY	 Guggenheim Canadian Energy Income ETF	 Equity Energy	 2	 $8.40	 -1.00%	 0.69%
+EPI	 WisdomTree India Earnings ETF	 India Equity	 2	 $26.01	 +0.12%	 0.84%
+EPP	 iShares MSCI Pacific ex Japan ETF	 Pacific/Asia ex-Japan Stk	 2	 $45.84	 -0.62%	 0.49%
+EWEM	 Guggenheim MSCI Em Mkts Eql Cntry Wt ETF	 Diversified Emerging Mkts	 2	 $33.30	 --	 0.70%
+EWJ	 iShares MSCI Japan ETF	 Japan Stock	 2	 $54.40	 +0.26%	 0.48%
+EWK	 iShares MSCI Belgium Capped ETF	 Miscellaneous Region	 2	 $20.32	 -0.05%	 0.48%
+EWN	 iShares MSCI Netherlands ETF	 Miscellaneous Region	 2	 $30.33	 -0.16%	 0.48%
+EWP	 iShares MSCI Spain Capped ETF	 Miscellaneous Region	 2	 $33.40	 -0.74%	 0.48%
+EWQ	 iShares MSCI France ETF	 Miscellaneous Region	 2	 $29.39	 -0.71%	 0.48%
+EWSC	 Guggenheim S&P SmallCap 600Â® Eql Wt ETF	 Small Blend	 2	 $50.41	 -0.42%	 0.41%
+EWY	 iShares MSCI South Korea Capped ETF	 Miscellaneous Region	 2	 $71.46	 +0.72%	 0.64%
+EWZ	 iShares MSCI Brazil Capped ETF	 Latin America Stock	 2	 $37.06	 -0.78%	 0.63%
+EXI	 iShares Global Industrials ETF	 Industrials	 2	 $85.28	 -0.51%	 0.47%
+EZU	 iShares MSCI Eurozone ETF	 Europe Stock	 2	 $41.33	 -0.79%	 0.48%
+FBZ	 First Trust Brazil AlphaDEXÂ® ETF	 Latin America Stock	 2	 $15.35	 -0.20%	 0.80%
+FCA	 First Trust China AlphaDEXÂ® ETF	 China Region	 2	 $25.55	 -0.57%	 0.80%
+FDD	 First Trust STOXXÂ® European Sel Div ETF	 Europe Stock	 2	 $13.34	 -0.37%	 0.60%
+FEM	 First Trust Emerging Mrkts AlphaDEXÂ® ETF	 Diversified Emerging Mkts	 2	 $25.25	 -0.51%	 0.80%
+FEU	 SPDRÂ® STOXX Europe 50 ETF	 Europe Stock	 2	 $34.58	 -0.46%	 0.29%
+FEZ	 SPDRÂ® EURO STOXX 50 ETF	 Europe Stock	 2	 $39.33	 -0.71%	 0.29%
+FM	 iShares MSCI Frontier 100 ETF	 Diversified Emerging Mkts	 2	 $29.00	 0.00%	 0.79%
+FMK	 First Trust Mega Cap AlphaDEXÂ® ETF	 Large Blend	 2	 $30.74	 +0.02%	 0.70%
+FNDE	 Schwab Fundamental Emerg Mkts Lg Co ETF	 Diversified Emerging Mkts	 2	 $27.94	 -0.34%	 0.39%
+FNI	 First Trust Chindia ETF	 Miscellaneous Region	 2	 $37.51	 +0.21%	 0.60%
+FRAK	 VanEck Vectors Unconvnt Oil & Gas ETF	 Equity Energy	 2	 $14.04	 -1.61%	 0.54%
+FTGC	 First Trust Global Tact Cmdty Strat ETF	 Commodities Broad Basket	 2	 $19.75	 -0.73%	 0.95%
+FWDI	 AdvisorShares Madrona International ETF	 Foreign Large Blend	 2	 $28.12	 -0.50%	 1.25%
+FXI	 iShares China Large-Cap ETF	 China Region	 2	 $42.04	 -0.10%	 0.74%
+FXL	 First Trust Technology AlphaDEXÂ® ETF	 Technology	 2	 $45.91	 -0.28%	 0.63%
+FXN	 First Trust Energy AlphaDEXÂ® ETF	 Equity Energy	 2	 $13.46	 -0.96%	 0.62%
+FXR	 First Trust Indtls/PrdcrDurbAlphaDEXÂ®ETF	 Industrials	 2	 $35.88	 -0.03%	 0.66%
+FYLD	 Cambria Foreign Shareholder Yield ETF	 Foreign Small/Mid Value	 2	 $24.68	 -0.29%	 0.59%
+FYT	 First Trust Small Cap Val AlphaDEXÂ® ETF	 Small Value	 2	 $34.35	 -0.89%	 0.70%
+GAL	 SPDRÂ® SSgA Global Allocation ETF	 Allocation--50% to 70% Equity	 2	 $36.23	 -0.06%	 0.35%
+GDX	 VanEck Vectors Gold Miners ETF	 Equity Precious Metals	 2	 $22.41	 +0.40%	 0.51%
+GII	 SPDRÂ® S&P Global Infrastructure ETF	 Infrastructure	 2	 $52.05	 -0.03%	 0.40%
+GOEX	 Global X Gold Explorers ETF	 Equity Precious Metals	 2	 $22.62	 +0.98%	 0.66%
+GSG	 iShares S&P GSCI Commodity-ed Trust	 Commodities Broad Basket	 2	 $13.95	 -1.55%	 0.75%
+GURU	 Global X Guruâ„¢ ETF	 Large Growth	 2	 $27.41	 -0.26%	 0.75%
+GVAL	 Cambria Global Value ETF	 Foreign Small/Mid Value	 2	 $24.68	 -0.40%	 0.69%
+GVI	 iShares Intermediate Govt/Crdt Bd ETF	 Intermediate-Term Bond	 2	 $111.15	 +0.14%	 0.20%
+HAO	 Guggenheim China Small Cap ETF	 China Region	 2	 $27.22	 -0.15%	 0.75%
+HYGH	 iShares Interest Rate Hdg Hi Yld Bd ETF	 High Yield Bond	 2	 $91.52	 -0.10%	 0.54%
+HYHG	 ProShares High Yieldâ€”Interest Rate Hdgd	 Nontraditional Bond	 2	 $69.00	 0.00%	 0.50%
+IBDH	 iShares iBonds Dec 2018 Term Corp ETF	 Corporate Bond	 2	 $25.19	 +0.06%	 0.10%
+IBND	 SPDRÂ® Blmbg Barclays Intl Corp Bd ETF	 World Bond	 2	 $34.21	 +0.65%	 0.50%
+IDOG	 ALPS International Sector Div Dogs ETF	 Foreign Large Value	 2	 $27.03	 -0.30%	 0.50%
+IEF	 iShares 7-10 Year Treasury Bond ETF	 Long Government	 2	 $107.14	 +0.18%	 0.15%
+IEZ	 iShares US Oil Equipment & Services ETF	 Equity Energy	 2	 $33.95	 -2.61%	 0.44%
+IFGL	 iShares International Dev Real Est ETF	 Global Real Estate	 2	 $28.92	 -0.07%	 0.48%
+IGN	 iShares North Amer Tech-Multimd Ntwk ETF	 Technology	 2	 $47.11	 +0.13%	 0.48%
+IGOV	 iShares International Treasury Bond ETF	 World Bond	 2	 $97.85	 +0.69%	 0.35%
+ILTB	 iShares Core 10+ Year USD Bond ETF	 Long-Term Bond	 2	 $64.11	 +0.33%	 0.08%
+IMLP	 iPathÂ® S&P MLP ETN	 Energy Limited Partnership	 2	 $19.26	 -0.88%	 0.80%
+IOIL	 IQ Global Oil Small Cap ETF	 Equity Energy	 2	 $9.88	 --	 0.76%
+IPD	 SPDRÂ® S&P Intl Cnsmr Discret Sect ETF	 Consumer Cyclical	 2	 $40.10	 -0.40%	 0.40%
+IPK	 SPDRÂ® S&P International Tech Sect ETF	 Technology	 2	 $44.49	 -0.45%	 0.40%
+IQDE	 FlexShares Intl Qual Div Defensv ETF	 Foreign Large Value	 2	 $24.86	 -0.16%	 0.47%
+IRY	 SPDRÂ® S&P International HealthC Sect ETF	 Health	 2	 $50.37	 -0.27%	 0.40%
+IST	 SPDRÂ® S&P International TelecomsSect ETF	 Communications	 2	 $25.67	 +0.10%	 0.40%
+ITB	 iShares US Home Construction ETF	 Consumer Cyclical	 2	 $34.36	 +0.97%	 0.44%
+ITE	 SPDRÂ® Blmbg Barclays Interm Term Trs ETF	 Intermediate Government	 2	 $60.20	 +0.07%	 0.10%
+ITR	 SPDRÂ® Blmbg Barclays IntmTermCorpBd ETF	 Corporate Bond	 2	 $34.58	 +0.17%	 0.12%
+IXG	 iShares Global Financials ETF	 Financial	 2	 $64.46	 -0.45%	 0.47%
+IXP	 iShares Global Telecom ETF	 Communications	 2	 $59.45	 +0.34%	 0.47%
+IYLD	 iShares Morningstar Multi-Asset Inc ETF	 Allocation--30% to 50% Equity	 2	 $25.62	 +0.27%	 0.59%
+JNK	 SPDRÂ® Blmbg Barclays High Yield Bd ETF	 High Yield Bond	 2	 $37.32	 -0.11%	 0.40%
+JPXN	 iShares JPX-Nikkei 400 ETF	 Japan Stock	 2	 $59.01	 -0.07%	 0.48%
+KBE	 SPDRÂ® S&P Bank ETF	 Financial	 2	 $43.20	 -0.74%	 0.35%
+KXI	 iShares Global Consumer Staples ETF	 Consumer Defensive	 2	 $103.48	 +0.01%	 0.47%
+MATH	 AdvisorShares Meidell Tacticl Advtge ETF	 Tactical Allocation	 2	 $30.75	 -0.46%	 1.58%
+MBB	 iShares MBS ETF	 Intermediate-Term Bond	 2	 $107.10	 +0.13%	 0.09%
+MLPG	 UBS ETRACS Alerian Natural Gas MLP ETN	 Energy Limited Partnership	 2	 $25.22	 --	 0.85%
+MLPI	 UBS ETRACS Alerian MLP Infras ETN	 Energy Limited Partnership	 2	 $26.27	 -0.64%	 0.85%
+MLPJ	 Global X Junior MLP ETF	 Energy Limited Partnership	 2	 $7.75	 -1.62%	 0.88%
+MOM	 QuantShares US Market Neut Momentum	 Market Neutral	 2	 $22.80	 --	 0.75%
+MUNI	 PIMCO Intermediate Municipal Bd Actv ETF	 Muni National Interm	 2	 $53.74	 +0.18%	 0.35%
+NASH	 LocalShares Nashville Area ETF	 Small Blend	 2	 $28.34	 --	 0.49%
+NLR	 VanEck Vectors Uranium+Nuclear Engy ETF	 Miscellaneous Sector	 2	 $51.24	 +0.51%	 0.61%
+OIH	 VanEck Vectors Oil Services ETF	 Equity Energy	 2	 $25.02	 -2.49%	 0.35%
+PAF	 PowerShares FTSE RAFI Asa Pac ex-Jpn ETF	 Pacific/Asia ex-Japan Stk	 2	 $57.36	 -0.31%	 0.49%
+PBJ	 PowerShares Dynamic Food & Beverage ETF	 Consumer Defensive	 2	 $32.22	 +0.31%	 0.58%
+PBS	 PowerShares Dynamic Media ETF	 Consumer Cyclical	 2	 $28.86	 -0.03%	 0.61%
+PEK	 VanEck Vectors ChinaAMC CSI 300 ETF	 China Region	 2	 $43.75	 -0.34%	 0.72%
+PEZ	 PowerShares DWA Cnsmr Cyclicals Mom ETF	 Consumer Cyclical	 2	 $45.57	 -0.07%	 0.60%
+PFF	 iShares US Preferred Stock ETF	 Preferred Stock	 2	 $39.30	 +0.28%	 0.47%
+PFIG	 PowerShares Fundamental InvGr CorpBd ETF	 Corporate Bond	 2	 $25.70	 +0.04%	 0.22%
+PFXF	 VanEck Vectors Pref Secs ex Fincls ETF	 Preferred Stock	 2	 $20.25	 +0.40%	 0.41%
+PGF	 PowerShares Financial Preferred ETF	 Preferred Stock	 2	 $19.08	 +0.05%	 0.63%
+PHB	 PowerShares Fundamental HiYld CorpBd ETF	 High Yield Bond	 2	 $19.03	 -0.10%	 0.50%
+PHDG	 PowerShares S&P 500 Downside Hedged ETF	 Long-Short Equity	 2	 $25.84	 -0.23%	 0.39%
+PHO	 PowerShares Water Resources ETF	 Miscellaneous Sector	 2	 $27.60	 +0.15%	 0.61%
+PICB	 PowerShares International Corp Bd ETF	 World Bond	 2	 $26.78	 +0.45%	 0.50%
+PID	 PowerShares Intl Div Achiev ETF	 Foreign Large Value	 2	 $15.77	 -0.25%	 0.58%
+PIE	 PowerShares DWA Emerging Markets Mom ETF	 Diversified Emerging Mkts	 2	 $18.06	 -0.28%	 0.90%
+PIN	 PowerShares India ETF	 India Equity	 2	 $24.35	 +0.41%	 0.80%
+PKB	 PowerShares Dynamic Building & Const ETF	 Industrials	 2	 $29.58	 +0.34%	 0.63%
+PMR	 PowerShares Dynamic Retail ETF	 Consumer Cyclical	 2	 $33.99	 -0.76%	 0.63%
+PRB	 VanEck Vectors Pre-Refunded Muni ETF	 Muni National Short	 2	 $24.54	 -0.05%	 0.24%
+PRN	 PowerShares DWA Industrials Momentum ETF	 Industrials	 2	 $55.79	 +0.06%	 0.60%
+PSP	 PowerShares Global Listed Private Eq ETF	 Miscellaneous Sector	 2	 $12.76	 +0.31%	 2.22%
+PXQ	 PowerShares Dynamic Networking ETF	 Technology	 2	 $45.34	 -0.13%	 0.63%
+PZI	 PowerShares Zacks Micro Cap ETF	 Small Value	 2	 $18.33	 -0.55%	 0.81%
+QCLN	 First Trust NASDAQÂ® Cln EdgeÂ® GrnEngyETF	 Miscellaneous Sector	 2	 $19.07	 -0.52%	 0.60%
+QLTA	 iShares Aaa - A Rated Corporate Bond ETF	 Corporate Bond	 2	 $52.89	 +0.30%	 0.15%
+RBL	 SPDRÂ® S&P Russia ETF	 Miscellaneous Region	 2	 $19.10	 -1.14%	 0.59%
+REM	 iShares Mortgage Real Estate Capped ETF	 Real Estate	 2	 $46.40	 +0.56%	 0.48%
+REMX	 VanEck Vectors Rare Earth/Strat Mtls ETF	 Equity Precious Metals	 2	 $20.15	 -0.20%	 0.61%
+RRF	 WisdomTree Global Real Return ETF	 World Bond	 2	 $40.14	 -0.74%	 0.64%
+RWX	 SPDRÂ® Dow Jones International RelEst ETF	 Global Real Estate	 2	 $38.95	 -0.03%	 0.59%
+RZV	 Guggenheim S&P SmallCap 600Â® PureVal ETF	 Small Value	 2	 $65.80	 -0.99%	 0.35%
+SCHC	 Schwab International Small-Cap Eq ETFâ„¢	 Foreign Small/Mid Blend	 2	 $34.48	 -0.10%	 0.12%
+SCIN	 Columbia India Small Cap ETF	 India Equity	 2	 $20.01	 -0.51%	 0.86%
+SHV	 iShares Short Treasury Bond ETF	 Short Government	 2	 $110.33	 -0.01%	 0.15%
+SIL	 Global X Silver Miners ETF	 Equity Precious Metals	 2	 $34.22	 +0.56%	 0.65%
+SJNK	 SPDRÂ® Blmbg BarclaysST HY Bd ETF	 High Yield Bond	 2	 $28.01	 -0.07%	 0.40%
+SLX	 VanEck Vectors Steel ETF	 Natural Resources	 2	 $40.43	 -1.49%	 0.55%
+SMMU	 PIMCO Short Term Municipal Bond Actv ETF	 Muni National Short	 2	 $50.19	 +0.05%	 0.35%
+SOCL	 Global X Social Media ETF	 Technology	 2	 $30.08	 -0.36%	 0.65%
+SOIL	 Global X Fertilizers/Potash ETF	 Natural Resources	 2	 $9.68	 -0.32%	 0.69%
+SPHB	 PowerShares S&P 500 High Beta ETF	 Large Blend	 2	 $38.22	 -0.18%	 0.25%
+SRLN	 SPDRÂ® Blackstone / GSO Senior Loan ETF	 Bank Loan	 2	 $47.54	 +0.11%	 0.70%
+SUB	 iShares Short-Term National Muni Bd ETF	 Muni National Short	 2	 $106.01	 0.00%	 0.25%
+TDIV	 First Trust NASDAQ Technology Div ETF	 Technology	 2	 $31.99	 -0.31%	 0.50%
+TFI	 SPDRÂ® Nuveen Blmbg Barclays Muni Bd ETF	 Muni National Long	 2	 $49.10	 +0.14%	 0.23%
+TFLO	 iShares Treasury Floating Rate Bond ETF	 Short Government	 2	 $50.20	 0.00%	 0.15%
+TOLZ	 ProShares DJ Brookfield Global Infras	 Infrastructure	 2	 $43.68	 -0.21%	 0.46%
+TUSA	 First Trust Total US Market AlphaDEX ETF	 Mid-Cap Blend	 2	 $30.43	 -0.39%	 0.70%
+USFR	 WisdomTree Bloomberg Floating Rt Trs ETF	 Short Government	 2	 $24.98	 -0.04%	 0.15%
+VQT	 Barclays ETN+ S&P VEQTORâ„¢	 Long-Short Equity	 2	 $147.00	 -0.12%	 0.95%
+VSS	 Vanguard FTSE All-Wld ex-US SmCp ETF	 Foreign Small/Mid Blend	 2	 $111.20	 -0.04%	 0.13%
+WDIV	 SPDRÂ® S&P Global Dividend ETF	 World Large Stock	 2	 $67.70	 +0.11%	 0.40%
+WDTI	 WisdomTree Managed Futures Strategy ETF	 Managed Futures	 2	 $38.85	 -0.10%	 0.65%
+WIP	 SPDRÂ® Citi Intl Govt Infl-Prot Bd ETF	 World Bond	 2	 $56.60	 +0.43%	 0.50%
+WMCR	 Wilshire Micro-Cap ETF	 Small Blend	 2	 $31.71	 -0.61%	 0.59%
+XBI	 SPDRÂ® S&P Biotech ETF	 Health	 2	 $80.77	 +0.79%	 0.35%
+XHB	 SPDRÂ® S&P Homebuilders ETF	 Consumer Cyclical	 2	 $38.68	 +0.57%	 0.35%
+XOP	 SPDRÂ® S&P Oil & Gas Explor & Prodtn ETF	 Equity Energy	 2	 $31.65	 -1.22%	 0.35%
+XPH	 SPDRÂ® S&P Pharmaceuticals ETF	 Health	 2	 $44.32	 +0.18%	 0.35%
+XRT	 SPDRÂ® S&P Retail ETF	 Consumer Cyclical	 2	 $40.36	 -0.57%	 0.35%
+ZROZ	 PIMCO 25+ Year Zero Coupon US Trs ETF	 Long Government	 2	 $117.31	 +0.64%	 0.15%
+ADRA	 BLDRS Asia 50 ADR ETF	 Diversified Pacific/Asia	 1	 $32.05	 +0.19%	 0.30%
+AGND	 WisdomTree Barclays NgtDur US AggtBd ETF	 Nontraditional Bond	 1	 $43.46	 -0.18%	 0.28%
+ARGT	 Global X MSCI Argentina ETF	 Miscellaneous Region	 1	 $29.65	 -0.74%	 0.59%
+ASEA	 Global X FTSE Southeast Asia ETF	 Pacific/Asia ex-Japan Stk	 1	 $15.23	 -0.10%	 0.65%
+ASHS	 Deutsche X-trackers HrvstCSI500CHN A SC	 China Region	 1	 $33.02	 +0.46%	 0.65%
+BBRC	 Columbia Beyond BRICs ETF	 Diversified Emerging Mkts	 1	 $17.89	 +0.03%	 0.58%
+BJK	 VanEck Vectors Gaming ETF	 Consumer Cyclical	 1	 $40.59	 +0.54%	 0.67%
+BRF	 VanEck Vectors Brazil Small-Cap ETF	 Latin America Stock	 1	 $21.72	 -0.14%	 0.60%
+BSCH	 Guggenheim BulletShrs 2017 Corp Bd ETF	 Corporate Bond	 1	 $22.62	 +0.07%	 0.24%
+BWZ	 SPDRÂ® Blmbg Barclays ST Intrn TrsBd ETF	 World Bond	 1	 $31.86	 +0.31%	 0.35%
+CHIE	 Global X China Energy ETF	 China Region	 1	 $11.10	 --	 0.65%
+CHIM	 Global X China Materials ETF	 China Region	 1	 $18.36	 +0.72%	 0.65%
+CHIQ	 Global X China Consumer ETF	 China Region	 1	 $15.39	 -0.06%	 0.65%
+CNDA	 IQ Canada Small Cap ETF	 Miscellaneous Region	 1	 $17.49	 --	 0.70%
+COPX	 Global X Copper Miners ETF	 Natural Resources	 1	 $22.93	 +0.09%	 0.65%
+CVY	 Guggenheim Multi-Asset Income ETF	 Allocation--85%+ Equity	 1	 $21.27	 -0.09%	 0.84%
+DDM	 ProShares Ultra Dow30	 Trading--Leveraged Equity	 1	 $100.04	 -0.35%	 0.95%
+DEM	 WisdomTree Emerging Markets High Div ETF	 Diversified Emerging Mkts	 1	 $42.66	 -0.16%	 0.63%
+DEW	 WisdomTree Global High Dividend ETF	 World Large Stock	 1	 $45.90	 -0.44%	 0.58%
+DIG	 ProShares Ultra Oil & Gas	 Trading--Leveraged Equity	 1	 $31.73	 -1.98%	 0.95%
+DVYA	 iShares Asia/Pacific Dividend ETF	 Diversified Pacific/Asia	 1	 $49.65	 -0.15%	 0.49%
+DVYE	 iShares Emerging Markets Dividend ETF	 Diversified Emerging Mkts	 1	 $41.50	 -0.29%	 0.49%
+DWAS	 PowerShares DWA SmallCap Momentum ETF	 Small Growth	 1	 $44.02	 -0.41%	 0.60%
+DWX	 SPDRÂ® S&P International Dividend ETF	 Foreign Large Value	 1	 $40.17	 +0.02%	 0.45%
+DXJC	 WisdomTree Japan Hedged Capital Gds ETF	 Japan Stock	 1	 $24.86	 --	 0.48%
+DXJF	 WisdomTree Japan Hedged Financials ETF	 Japan Stock	 1	 $23.77	 -1.04%	 0.48%
+EDIV	 SPDRÂ® S&P Emerging Markets Dividend ETF	 Diversified Emerging Mkts	 1	 $31.26	 -0.06%	 0.49%
+EEB	 Guggenheim BRIC ETF	 Diversified Emerging Mkts	 1	 $33.85	 -0.47%	 0.64%
+EELV	 PowerShares S&P Em Mkts Low Volatil ETF	 Diversified Emerging Mkts	 1	 $24.56	 0.00%	 0.29%
+EEMO	 PowerShares S&P Emerg Mkts Momentum ETF	 Diversified Emerging Mkts	 1	 $19.02	 -0.63%	 0.29%
+EGPT	 VanEck Vectors Egypt ETF	 Miscellaneous Region	 1	 $27.47	 +0.07%	 1.01%
+EIS	 iShares MSCI Israel Capped ETF	 Miscellaneous Region	 1	 $54.00	 -0.33%	 0.64%
+EMDD	 Columbia EM Strategic Opportunities ETF	 Diversified Emerging Mkts	 1	 $19.99	 -0.08%	 0.65%
+EMFM	 Global X Next Emerging & Frontier ETF	 Diversified Emerging Mkts	 1	 $22.38	 -0.32%	 0.56%
+EUFN	 iShares MSCI Europe Financials ETF	 Financial	 1	 $22.63	 -0.61%	 0.48%
+EWI	 iShares MSCI Italy Capped ETF	 Miscellaneous Region	 1	 $29.10	 -0.58%	 0.48%
+EWO	 iShares MSCI Austria Capped ETF	 Miscellaneous Region	 1	 $22.21	 -0.63%	 0.48%
+EWZS	 iShares MSCI Brazil Small-Cap ETF	 Latin America Stock	 1	 $14.49	 -0.07%	 0.63%
+FAN	 First Trust Global Wind Energy ETF	 Miscellaneous Sector	 1	 $13.31	 +0.42%	 0.60%
+FCG	 First Trust Natural Gas ETF	 Equity Energy	 1	 $20.56	 -0.63%	 0.60%
+FEEU	 Barclays ETN+ FI Enhanced Europe 50	 Foreign Large Blend	 1	 $121.88	 -1.35%	 0.76%
+FIEU	 Credit Suisse FI Enhanced Europe50 ETN	 Europe Stock	 1	 $125.51	 -1.27%	 0.05%
+FJP	 First Trust Japan AlphaDEXÂ® ETF	 Japan Stock	 1	 $53.78	 +0.32%	 0.80%
+FLM	 First Trust Global Eng and Const ETF	 Industrials	 1	 $54.87	 -1.31%	 0.70%
+FMF	 First Trust Morningstar Mgd FutsStrt ETF	 Managed Futures	 1	 $45.85	 --	 1.02%
+FRN	 Guggenheim Frontier Markets ETF	 Diversified Emerging Mkts	 1	 $14.12	 +0.21%	 0.70%
+FVL	 First Trust Value LineÂ® 100 ETF ETF	 Mid-Cap Blend	 1	 $21.73	 -0.65%	 0.70%
+GDXJ	 VanEck Vectors Junior Gold Miners ETF	 Equity Precious Metals	 1	 $33.14	 +0.55%	 0.52%
+GEX	 VanEck Vectors Global Alt Energy ETF	 Miscellaneous Sector	 1	 $61.31	 -0.29%	 0.62%
+GGOV	 ProShares German Sovereign/Sub-Sovereign	 World Bond	 1	 $37.75	 --	 0.45%
+GRID	 First Trust NASDAQÂ® Cln EdgeÂ®StGidIfsETF	 Miscellaneous Sector	 1	 $45.16	 -1.27%	 0.70%
+GSC	 GS Connect S&P GSCI Enh Commodity TR ETN	 Commodities Broad Basket	 1	 $20.98	 --	 1.25%
+GSP	 iPathÂ® S&P GSCIÂ® Total Return ETN	 Commodities Broad Basket	 1	 $12.77	 -2.07%	 0.75%
+GUR	 SPDRÂ® S&P Emerging Europe ETF	 Miscellaneous Region	 1	 $30.50	 -1.01%	 0.49%
+GURI	 Global X Guruâ„¢ International ETF	 Foreign Large Blend	 1	 $15.36	 --	 0.75%
+GYLD	 Arrow Dow Jones Global Yield ETF	 World Allocation	 1	 $18.30	 -0.47%	 0.75%
+HGI	 Guggenheim Intl Multi-Asset Inc ETF	 Foreign Large Value	 1	 $16.93	 --	 0.84%
+HILO	 Columbia EM Quality Dividend ETF	 Diversified Emerging Mkts	 1	 $14.32	 -0.38%	 0.85%
+HYLD	 AdvisorShares Peritus High Yield ETF	 High Yield Bond	 1	 $36.10	 -0.36%	 1.28%
+HYND	 WisdomTree Negative Dur High Yld Bd ETF	 Nontraditional Bond	 1	 $20.73	 -0.49%	 0.48%
+IBCC	 iShares iBonds Mar 2018Tm CorpexFncl ETF	 Corporate Bond	 1	 $24.68	 +0.04%	 0.10%
+ICLN	 iShares Global Clean Energy ETF	 Miscellaneous Sector	 1	 $8.99	 -0.13%	 0.47%
+IDMO	 PowerShares S&P Intl Dev Momentum ETF	 Foreign Large Blend	 1	 $25.64	 --	 0.26%
+INKM	 SPDRÂ® SSgA Income Allocation ETF	 Allocation--50% to 70% Equity	 1	 $32.87	 +0.01%	 0.70%
+INP	 iPathÂ® MSCI India ETN	 India Equity	 1	 $81.04	 -0.58%	 0.89%
+INXX	 Columbia India Infrastructure ETF	 India Equity	 1	 $14.02	 -0.99%	 0.88%
+IPF	 SPDRÂ® S&P International Fincl Sect ETF	 Financial	 1	 $22.40	 +0.30%	 0.40%
+IPFF	 iShares International Preferred Stk ETF	 Preferred Stock	 1	 $18.42	 +0.27%	 0.55%
+IPN	 SPDRÂ® S&P International Indl Sect ETF	 Industrials	 1	 $34.90	 +0.02%	 0.40%
+IPO	 Renaissance IPO ETF	 Mid-Cap Growth	 1	 $25.83	 0.00%	 0.60%
+IPS	 SPDRÂ® S&P Intl Cnsmr Stapl Sect ETF	 Consumer Defensive	 1	 $46.57	 -0.35%	 0.40%
+IPU	 SPDRÂ® S&P International Utls Sect ETF	 Utilities	 1	 $17.25	 +0.26%	 0.40%
+ISHG	 iShares 1-3 Year International TrsBd ETF	 World Bond	 1	 $83.50	 +0.52%	 0.35%
+JXI	 iShares Global Utilities ETF	 Utilities	 1	 $50.24	 +0.46%	 0.47%
+KBWD	 PowerShares KBW High Div Yld Fincl ETF	 Financial	 1	 $24.30	 +0.12%	 2.99%
+KCE	 SPDRÂ® S&P Capital Markets ETF	 Financial	 1	 $50.65	 -0.02%	 0.35%
+KOL	 VanEck Vectors Coal ETF	 Miscellaneous Sector	 1	 $14.18	 -2.07%	 0.59%
+KROO	 IQ Australia Small Cap ETF	 Miscellaneous Region	 1	 $17.23	 -0.88%	 0.70%
+KWT	 VanEck Vectors Solar Energy ETF	 Miscellaneous Sector	 1	 $42.70	 +2.93%	 0.65%
+LALT	 PowerShares Multi-Strategy Alt ETF	 Multialternative	 1	 $21.83	 -0.42%	 0.98%
+LQDH	 iShares Interest Rate Hedged Corp Bd ETF	 Corporate Bond	 1	 $96.04	 +0.17%	 0.25%
+LTL	 ProShares Ultra Telecommunications	 Trading--Leveraged Equity	 1	 $50.21	 --	 0.95%
+LVL	 Guggenheim S&P Global Dividend Opps ETF	 World Small/Mid Stock	 1	 $10.96	 -0.09%	 0.64%
+MCRO	 IQ Hedge Macro Tracker ETF	 World Allocation	 1	 $25.88	 -0.34%	 1.02%
+MDIV	 Multi-Asset Diversified Income ETF	 Allocation--50% to 70% Equity	 1	 $19.41	 -0.36%	 0.67%
+MLPC	 C-Tracks ETN Bsd on Perf of M/H MLP Fdmt	 Energy Limited Partnership	 1	 $16.42	 -0.62%	 0.95%
+MVV	 ProShares Ultra MidCap400	 Trading--Leveraged Equity	 1	 $107.61	 -0.20%	 0.95%
+PBD	 PowerShares Global Clean Energy ETF	 Miscellaneous Sector	 1	 $12.17	 -0.29%	 0.75%
+PBE	 PowerShares Dynamic Biotech & Genome ETF	 Health	 1	 $47.45	 +0.13%	 0.58%
+PBW	 PowerShares WilderHill Clean Energy ETF	 Miscellaneous Sector	 1	 $4.55	 0.00%	 0.70%
+PERM	 Global X Permanent ETF	 Allocation--30% to 50% Equity	 1	 $25.43	 --	 0.49%
+PIO	 PowerShares Global Water ETF	 Miscellaneous Sector	 1	 $24.10	 -0.25%	 0.75%
+PLND	 VanEck Vectors Poland ETF	 Miscellaneous Region	 1	 $19.29	 -0.82%	 0.60%
+PPH	 VanEck Vectors Pharmaceutical ETF	 Health	 1	 $59.15	 +16.28%	 0.35%
+PSCE	 PowerShares S&P SmallCap Energy ETF	 Equity Energy	 1	 $13.00	 -3.13%	 0.29%
+PTF	 PowerShares DWA Technology Momentum ETF	 Technology	 1	 $49.32	 -0.08%	 0.60%
+PTH	 PowerShares DWA Healthcare Momentum ETF	 Health	 1	 $62.98	 -0.27%	 0.60%
+PVI	 PowerShares VRDO Tax-Free Weekly ETF	 Muni National Short	 1	 $24.90	 -0.17%	 0.25%
+PXH	 PowerShares FTSE RAFI Emerging Mkts ETF	 Diversified Emerging Mkts	 1	 $20.89	 -0.38%	 0.49%
+PXJ	 PowerShares Dynamic Oil & Gas Svcs ETF	 Equity Energy	 1	 $9.43	 -2.58%	 0.63%
+PXR	 PowerShares Emerging Markets Infras ETF	 Diversified Emerging Mkts	 1	 $35.64	 -0.74%	 0.75%
+QLD	 ProShares Ultra QQQ	 Trading--Leveraged Equity	 1	 $63.19	 -0.14%	 0.95%
+RING	 iShares MSCI Global Gold Miners ETF	 Equity Precious Metals	 1	 $18.09	 +0.44%	 0.39%
+RLY	 SPDRÂ® SSgA Multi-Asset Real Return ETF	 Allocation--50% to 70% Equity	 1	 $24.36	 -0.49%	 0.70%
+ROM	 ProShares Ultra Technology	 Trading--Leveraged Equity	 1	 $72.28	 -0.45%	 0.95%
+RSX	 VanEck Vectors Russia ETF	 Miscellaneous Region	 1	 $20.01	 -1.40%	 0.65%
+RXL	 ProShares Ultra Health Care	 Trading--Leveraged Equity	 1	 $83.08	 -0.79%	 0.95%
+SAA	 ProShares Ultra SmallCap600	 Trading--Leveraged Equity	 1	 $85.46	 -1.49%	 0.95%
+SBV	 iPathÂ® Pure Beta S&P GSCIÂ®-Weighted ETN	 Commodities Broad Basket	 1	 --	 --	 0.75%
+SCIF	 VanEck Vectors India Small-Cap ETF	 India Equity	 1	 $59.15	 -0.22%	 0.78%
+SDIV	 Global X SuperDividendâ„¢ ETF	 World Small/Mid Stock	 1	 $21.90	 -0.05%	 0.58%
+SEA	 Guggenheim Shipping ETF	 Industrials	 1	 $12.27	 -1.21%	 0.65%
+SHYD	 VanEck Vectors Short High-Yield Muni ETF	 High Yield Muni	 1	 $24.39	 +0.54%	 0.35%
+SILJ	 PureFundsâ„¢ ISE Junior Silver ETF	 Equity Precious Metals	 1	 $12.36	 -0.24%	 0.69%
+SIZ	 QuantShares US Market Neutral Size	 Market Neutral	 1	 $20.44	 +0.10%	 0.75%
+SNLN	 Highland/iBoxx Senior Loan ETF	 Bank Loan	 1	 $18.43	 +0.11%	 0.55%
+SPFF	 Global X SuperIncomeâ„¢ Preferred ETF	 Preferred Stock	 1	 $12.92	 +0.62%	 0.58%
+SSO	 ProShares Ultra S&P500	 Trading--Leveraged Equity	 1	 $93.12	 -0.12%	 0.89%
+TAN	 Guggenheim Solar ETF	 Miscellaneous Sector	 1	 $21.32	 -0.61%	 0.71%
+UCC	 ProShares Ultra Consumer Services	 Trading--Leveraged Equity	 1	 $69.15	 -0.20%	 0.95%
+UGE	 ProShares Ultra Consumer Goods	 Trading--Leveraged Equity	 1	 $45.86	 +0.11%	 0.95%
+UPW	 ProShares Ultra Utilities	 Trading--Leveraged Equity	 1	 $47.60	 +1.51%	 0.95%
+URA	 Global X Uranium ETF	 Natural Resources	 1	 $14.31	 -1.68%	 0.70%
+URE	 ProShares Ultra Real Estate	 Trading--Leveraged Equity	 1	 $63.74	 +0.24%	 0.95%
+USD	 ProShares Ultra Semiconductors	 Trading--Leveraged Equity	 1	 $90.80	 -0.33%	 0.95%
+UWM	 ProShares Ultra Russell2000	 Trading--Leveraged Equity	 1	 $62.02	 -0.86%	 0.95%
+UXI	 ProShares Ultra Industrials	 Trading--Leveraged Equity	 1	 $59.56	 -0.71%	 0.95%
+UYG	 ProShares Ultra Financials	 Trading--Leveraged Equity	 1	 $105.90	 +0.02%	 0.95%
+UYM	 ProShares Ultra Basic Materials	 Trading--Leveraged Equity	 1	 $60.38	 -0.28%	 0.95%
+VNM	 VanEck Vectors Vietnam ETF	 Miscellaneous Region	 1	 $14.60	 +0.14%	 0.66%
+XES	 SPDRÂ® S&P Oil & Gas Equipment&Svcs ETF	 Equity Energy	 1	 $15.57	 -3.05%	 0.35%
+XME	 SPDRÂ® S&P Metals and Mining ETF	 Natural Resources	 1	 $31.48	 -0.73%	 0.35%
+YDIV	 International MA Divers Inc ETF	 World Allocation	 1	 $18.60	 +0.15%	 0.78%
+YMLP	 VanEck Vectors High Income MLP ETF	 Energy Limited Partnership	 1	 $24.08	 -0.52%	 0.88%
+ZMLP	 Direxion Zacks MLP High Income ETF	 Energy Limited Partnership	 1	 $17.41	 -0.80%	 2.41%
